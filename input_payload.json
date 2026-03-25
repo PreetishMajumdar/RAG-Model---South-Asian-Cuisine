@@ -1,0 +1,124 @@
+{
+    "queries": [
+        {
+            "query_id": "SA_001",
+            "query": "What are the main spices used in Hyderabadi Dum Biryani?"
+        },
+        {
+            "query_id": "SA_002",
+            "query": "How is naan traditionally cooked?"
+        },
+        {
+            "query_id": "SA_003",
+            "query": "What is the main staple food in Bangladeshi cuisine?"
+        },
+        {
+            "query_id": "SA_004",
+            "query": "What is dal-bhat-tarkari?"
+        },
+        {
+            "query_id": "SA_005",
+            "query": "What ingredients form the base of traditional Maldivian cuisine?"
+        },
+        {
+            "query_id": "SA_006",
+            "query": "What is Ema Datshi and what are its main ingredients?"
+        },
+        {
+            "query_id": "SA_007",
+            "query": "How has Mughal influence shaped Pakistani cuisine?"
+        },
+        {
+            "query_id": "SA_008",
+            "query": "What type of rice is commonly used in Afghan Kabuli palaw?"
+        },
+        {
+            "query_id": "SA_009",
+            "query": "How does Sindhi biryani differ from Hyderabadi biryani?"
+        },
+        {
+            "query_id": "SA_010",
+            "query": "How does Sri Lankan rice and curry differ from a North Indian thali?"
+        },
+        {
+            "query_id": "SA_011",
+            "query": "What vegetables are typically used in Aloo Gobi?"
+        },
+        {
+            "query_id": "SA_012",
+            "query": "Why is vegetarianism widely practiced in Indian cuisine?"
+        },
+        {
+            "query_id": "SA_013",
+            "query": "What is the dum cooking method used in Hyderabadi cuisine?"
+        },
+        {
+            "query_id": "SA_014",
+            "query": "How does regional diversity influence staple grains used across Indian cuisines?"
+        },
+        {
+            "query_id": "SA_015",
+            "query": "How does Mughlai cuisine differ from traditional South Indian cuisine?"
+        },
+        {
+            "query_id": "SA_016",
+            "query": "How do staple grains differ between North Indian and South Indian cuisines?"
+        },
+        {
+            "query_id": "SA_017",
+            "query": "How does Mughal influence appear in both ingredients and cooking style within Indian cuisine?"
+        },
+        {
+            "query_id": "SA_018",
+            "query": "How does the use of coconut in South Indian cuisine contrast with its usage in North Indian cuisine?"
+        },
+        {
+            "query_id": "SA_019",
+            "query": "How does the tandoor cooking technique influence the texture and flavor of Indian breads and meats?"
+        },
+        {
+            "query_id": "SA_020",
+            "query": "How have religious dietary practices influenced the diversity of vegetarian dishes in Indian cuisine?"
+        },
+        {
+            "query_id": "SA_021",
+            "query": "How do staple grains and primary cooking fats differ between North and South Indian cuisines?"
+        },
+        {
+            "query_id": "SA_022",
+            "query": "How is South Indian cuisine described in terms of flavor profile and ingredient emphasis in the Around the World in 80 Cuisines blog?"
+        },
+        {
+            "query_id": "SA_023",
+            "query": "What are the key preparation steps in making Chicken Tikka Masala according to Wikibooks?"
+        },
+        {
+            "query_id": "SA_024",
+            "query": "How do staple grains differ between Bhutanese and Bangladeshi cuisines?"
+        },
+        {
+            "query_id": "SA_025",
+            "query": "How does the use of seafood reflect Bangladesh’s riverine geography?"
+        },
+        {
+            "query_id": "SA_026",
+            "query": "What preparation method is used in making traditional Afghan kebabs?"
+        },
+        {
+            "query_id": "SA_027",
+            "query": "How does Sri Lankan cuisine reflect South Indian culinary influence?"
+        },
+        {
+            "query_id": "SA_028",
+            "query": "What distinguishes Chapli kebab from other Pakistani kebabs?"
+        },
+        {
+            "query_id": "SA_029",
+            "query": "How do cooking fats differ between North Indian and South Indian cuisines?"
+        },
+        {
+            "query_id": "SA_030",
+            "query": "How does Maldivian cuisine reflect reliance on marine resources?"
+        }
+    ]
+}

@@ -1,0 +1,814 @@
+{
+    "results": [
+        {
+            "query_id": "SA_001",
+            "query": "What are the main spices used in Hyderabadi Dum Biryani?",
+            "response": "Based on the information provided:\n\n- The main spices used in Hyderabadi Dum Biryani are turmeric, cumin, coriander, cardamom, cinnamon, cloves, and nutmeg.\n- These spices are commonly found in the traditional Ayurvedic medicine of Hyderabad, known as \"Dum Biryani\" or \"Hyderabadi Biryani.\"\n- They are believed to have originated from the city of Hyderabad, where they were traditionally prepared using these ingredients.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The meat used in the preparation is usually mutton, beef—popularly called Kalyani Biryani—or, less frequently, chicken. There is also a vegetarian version of the Hyderabadi Biryani in which the place of the meat is taken by a mixture of vegetables such as carrots, peas, cauliflower and potato. The vegetarian version is called 'tarkari' biryani. The Hyderabadi Biryani version of the mixed Vegetable Biryani is the \"Tahiri\"."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The Mughal and Indo-Iranian heritage played an influential role in the making of their cuisine, having taste vary from mild to spicy and is often associated with aroma. In comparison to other native Pakistani dishes, Muhajir cuisine tends to use stronger spices and flavors. Most of a dastarkhawan dining table include chapatti, rice, dal, vegetable and meat curry. Special dishes include biryani, qorma, kofta, seekh kabab, Nihari and Haleem, Nargisi Koftay, Kata-Kat, Rogani Naan, Naan, Sheer-qurma (sweet), qourma, Chai, paan and Hyderabadi cuisine, and other delicacies associated with Muhajir culture. Nihari, the national dish of Pakistan was brought to Pakistan by the Muhajir people from India."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Andhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana, Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams, the former rulers. A staple of Karnataka cuisine is jolada rotti, a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk. Fish, especially tuna, is important in the cuisine; tuna meat is made into Rihaakuru, a thick brown fish sauce."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Hyderabadi biryani and palaav, or \"Andhra biryani\", are popular dishes within the region. Royyala palav, made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani, kunda biryani (pot biryani), avakaya biryani, ulavacharu biryani, and panasa biryani."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Biryani is widespread in Awadhi cuisine. When cooking it, pilau is first made by cooking basmati rice in ghee with warm, aromatic spices and then layered with meat curry or marinade (depending on the type of biryani), sealed, and cooked over low heat (dum cooking) until done."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_002",
+            "query": "How is naan traditionally cooked?",
+            "response": "Naan is traditionally cooked in a tandoor.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Naan bya (Burmese: နံပြား) in Myanmar is traditionally served at teahouses with tea or coffee as a breakfast item. It is round, soft, and blistered, often buttered, or with creamy pè byouk (boiled chickpeas) cooked with onions spread on top, or dipped with Burmese curry."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "In Indonesia, naan is a popular alternative to rice among the Indians, Arabs, Malays, Acehnese and the Minangkabaus, similar though not the same as roti or roti canai which was introduced from Tamils. This dish is known as roti naan or roti nan, and is cooked using Indonesian spices such as garlic."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Naan (/nɑːn/) is a leavened, oven-baked or tawa-fried flatbread, that can also be baked in a tandoor. It is characterised by a light and fluffy texture and golden-brown spots from the baking process. Naan is used in many cuisines worldwide."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "After being promoted by Kandagawa Sekizai Shoukou in 1968, which is now the sole domestic manufacturer of tandoors, naan is now widely available in Indian-style curry restaurants in Japan, where naan is typically free-flow. Some restaurants bake ingredients such as cheese, garlic, onions, and potatoes into the naan, or cover it with toppings like a pizza."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Naan is a round flatbread made with white flour and is a staple accompaniment to hot meals in central and southern Asia."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_003",
+            "query": "What is the main staple food in Bangladeshi cuisine?",
+            "response": "The main staple food in Bangladeshi cuisine is rice.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Bangladeshi cuisine is dominated by Bengali cuisine and has been shaped by the diverse history and riverine geography of Bangladesh. The country has a tropical monsoon climate. Rice is the main staple food of Bangladeshi people and it is served with a wide range of curries."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Rice is the staple food of Bangladesh, while fish is the most common source of protein in Bangladesh. There are 250 plant-based ingredients in Bangladeshi cooking. The use of mustard oil was the traditional edible oil before soybean oil was introduced."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Bangladeshi cuisine has been shaped by the region's history and riverine geography. Bangladesh has a tropical monsoon climate. The staple foods of Bangladesh are rice and fish. The majority of Bangladeshi people are ethnic Bengali, with a minority of non-Bengalis, many of whom are used to cuisines from different traditions and regions."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "In Bangladesh, this food has become common fare for the population while in West Bengal, they have remained the food of professional chefs. Further innovations include chap (ribs slow cooked on a tawa), rezala (meat in a thin yogurt and cardamom gravy) and kathi roll (kebabs in a wrap)."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Dhakaiya food is one of the most notable regional Bengali cuisines. The rich culinary customs are influenced by Mughlai, Central Asian, Armenian, Hindustani and native Bengali cuisines. However, it also has dishes unique to Dhaka. The Nawabs of Dhaka had brought Mughlai cuisine to Bengal, that were wholly retained by Dhaka's culinary community. Due to the high costs of producing Mughlai food, the recipes were limited to the elite classes in colonial India, and slowly expanded as Bangladesh's economy grew. The main focus on lamb, mutton, beef, yoghurt, and mild spices define the taste of the style. Such dishes as kebab; stuffed breads; kacchi biriyani; roast lamb, duck, and chicken; patisapta; Kashmiri tea; and korma are still served at special occasions like Eid and weddings. Due to the high class of the food, using an excess amount of expensive ingredients like ghee, and making the food melt in one's mouth were essential to the feel of the food."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_004",
+            "query": "What is dal-bhat-tarkari?",
+            "response": "Dal-bhat-tarkari is a traditional Nepalese dish consisting of lentils, spices, and a vegetable curry. It is commonly consumed twice daily by the Khas people, although it is now more common for wheat to replace rice in most households due to limited availability of rice paddies. The dish is known for its versatility and can be prepared using various ingredients including spinach, fresh greens, fermented and dried greens, white radish, potatoes, green beans, tomatoes, cauliflower, cabbage, pumpkin, and melon.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Dal-bhat-tarkari is the standard meal eaten twice daily traditionally by the Khas people. However, with land suitable for irrigated rice paddies in short supply, other grains supplement or even dominate. Wheat becomes unleavened flat bread (roti or chapati). Maize (makai), buckwheat (fapar), barley (jau), or millet (kodo) become porridge-like (dhido or ato). Tarkari can be spinach and fresh greens (sag), fermented and dried greens (gundruk or sinki), white radish (mula), potatoes (alu), green beans (simi), tomatoes (golbeda), cauliflower (kauli), cabbage (bandakopi), pumpkin (farsi), etc. The climate of the hilly region remains moderate throughout the year. This kind of climate is perfect for horticulture. Fruits traditionally grown in the hills include mandarin orange (suntala), kaffir lime (kagati), lemon (kaagati), Asian pear (nashpati), and bayberry (kaphal), mangoes (aanp), apples (syauu), peach (aaru), plum (aalcha or aarubakhara), apricot (kurpani) . In some seasons there is an excess amount of these fruits produced. These excess fruits are often preserved or otherwise made use of in the form of alcohol, pickles, dried fruits and fruit juice. These alcohol are also serves in a different rituals of Newari culture."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Nepali cuisine comprises a variety of cuisines based upon ethnicity, alluvial soil and climate relating to cultural diversity and geography of Nepal and neighboring regions of Sikkim and Gorkhaland. Dal-bhat-tarkari (Nepali: दाल भात तरकारी) is eaten throughout Nepal. Dal is a soup made of lentils and spices, bhat — usually rice but sometimes another grain — and a vegetable curry, tarkari. Condiments are usually small amounts of spicy pickle (achaar, अचार) which can be fresh or fermented, mainly of dried mustard greens (called gundruk ko achar) and radish (mula ko achar) and of which there are many varieties. Other accompaniments may be sliced lemon (nibuwa) or lime (kagati) with fresh green chilli (hariyo khursani) and a fried papad and also Islamic food items such as rice pudding, sewai, and biryani. Dhindo (ढिंडो) is the national dish of Nepal, primarily made from flour of millet and is served with achar of gundruk 'dried spinach'. A typical example of Nepali cuisine is the Chaurasi Byanjan (Nepali: चौरासी व्यञ्जन) set where bhat (rice) is served in a giant leaf platter (patravali) along with 84 different Nepali dishes each served on small plates. It is mostly served during weddings and Pasni (rice feeding ceremony)."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Nepalese cuisine comprises a variety of cuisines based upon ethnicity, soil and climate relating to Nepal's cultural diversity and geography.Dal-bhat-tarkari (Nepali: दाल भात तरकारी) is eaten throughout Nepal. Nepali cuisine has significant influences from Neighboring Indian and Tibetan cuisines."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "People in this region eat dhido (millet or barley cooked dough), potato curry, momo (dumplings), Jhol Momo, Mokthuk, yak or goat or sheep meat, milk, thukpa, laping or strong alcohol like tongba (millet juice) for their regular diet. This region also imports rice from other regions. Daal-bhat-tarkari is a staple in the cuisine served to the Everest-bound tourists."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Gujaratis will often refer to dal-bhat-rotli-saak as their everyday meal. For special occasions, this basic quartet is supplemented with additional shaak, sweet dishes, and farsan. A festive Gujarati thali often contain over a dozen items. Dietary rules restrict the permissible combination of dishes. For example, if kadhi is to be served, then a lentil preparation such as chutti dal, vaal, or mug ni dal will also be included. The sweet dish accompanying kadhi will likely be milk or yogurt–based, like doodhpak or shrikhand. However, a yogurt-based raita would not be served with such a meal. Festive meals based on dal will typically have a wheat-based sweet dish like lapsi or ladoo as the sweet accompaniment. Many Gujarati families make and consume moong dal in their diet on Wednesdays. There are established combinations of spices that some believe to facilitate digestion, that are eaten with different foods."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_005",
+            "query": "What ingredients form the base of traditional Maldivian cuisine?",
+            "response": "Based on the information provided:\n\n- Coconuts\n- Fish\n- Starches\n\nThese are the three main ingredients that form the basis of traditional Maldivian cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Maldivian cuisine, also called Dhivehi cuisine, is the cuisine of the Nation of Maldives and of Minicoy, India. The traditional cuisine of Maldivians is based on three main items and their derivatives: coconuts, fish and starches."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Maldivian cuisine, also called Dhivehi cuisine, is the cuisine of the Maldives and Minicoy, Lakshadweep, India. The traditional cuisine of Maldivians and Lakshadweep is based on three main items and their derivatives: coconuts, fish, and starches."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The tuna-based thick brown paste known as rihaakuru is also an essential item in Maldivian cuisine."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Garudhiya is generally regarded as the national dish of The Maldives, consisting of a clear fish broth. It is one of countless Maldivian dishes that commonly feature tuna, which is indisputably the foundation of the country’s cuisine. In fairness to the Maldivians, if there were bountiful supplies of skipjack tuna, yellowfin tuna or frigate tuna swimming a few hundred metres from my house, it would surely form the foundation of my diet as well. The most basic version of garudhiya involves boiling tuna fillets in salted water, skimming off the scum that forms at the surface, and then serving with steamed rice or roshi (flatbread). However, upon this a cook can add many other ingredients depending on preference and availability, including boiled taro or breadfruit, grated coconut, lime, chillies, onions or curry leaves. I can see why this dish is still eaten daily by Maldivians: it’s incredibly quick and easy to prepare, delicious, filling and healthy. However, if you had more time and patience on your hands, you could continue the boiling process of the fish broth until achieving a thick brown paste, called rihaakuru. This is a prized ingredient in Maldivian cuisine, and was also introduced to Sri Lanka, where it now features in many dishes. It can be eaten along with other aforementioned staples (rice, roshi, taro, breadfruit) as well as cooked with spiced and/or coconut to create new flavour combinations. I’ve even read reports of rihaakuru being spread on toast, with some"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Fish dishes dominate Malvani cuisine. Solkadhi is a pink-colored drink made from the kokam fruit (Garcinia indica) and coconut milk."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_006",
+            "query": "What is Ema Datshi and what are its main ingredients?",
+            "response": "Based on the information provided:\n\nEma Datshi is a traditional dish from Bangladesh. Its main ingredients include:\n\n1. **Mung Beans**: These are typically used for making the soup.\n2. **Pigeon Noodle Soup**: This is a type of noodle soup that is often served with Ema Datshi.\n3. **Fish**: Specifically, \"fish\" refers to pigeon-fish, which is a type of fish commonly found in Bangladesh.\n\nSo, Ema Datshi is a soup made with mung beans, pigeon-noodle soup, and pigeon-fish.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Vegetable curries in the Maldives include those that use bashi (eggplant), tora (Luffa aegyptiaca), barabō (pumpkin), chichanda (Trichosanthes cucumerina) and muranga faiy (moringa leaves), as well as green unripe bananas and certain leaves as their main ingredients. Pieces of Maldives fish are normally added to give the vegetable curry a certain flavor. Curries are usually eaten with steamed rice or with roshi."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "There are also ingredients in the cuisine that require an acquired taste, such as hawaijaar (fermented soya bean, somewhat similar to the Japanese nattō), soibum (fermented bamboo shoot), ngaa-ri (fermented fish), and hentak (fermented fish powder and herbs)."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Maharashtrian lacto-vegetarian dishes are based on five main classes of ingredients that include grains, legumes, vegetables, dairy products and spices."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "The masor tenga is a light and sour fish dish, another signature class of preparations. There are numerous ways of preparing the sour fish curry among Assamese people. The souring ingredient could be mangosteen, lemon, tomatoes, roselle leaves, Outenga, Manimuni, Tengesi, etc. Another important ingredient is kokum. Fish dishes made with fermented bamboo shoot (khorisa) are generally sour, but they are not called tenga. Fish is fried in mustard oil or stewed with bottle gourd or spinach or boiled simply. Another tenga dish is prepared with matimah (urad bean) and outenga (elephant apple). Bottle gourd can be added to it. Tengamora (Roselle (plant)) or noltenga (Indian chestnut vine) and lentil is a distinct tenga curry."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The Chittagong Hill Tracts are home to tribes with their own culture and cuisine. Chakma cuisine uses sidol, a paste made from fermented shrimps and fish, and suguni, dried shrimp or fish. Their dishes use more herbs from the hills more than the spices common in Bengali dishes. Important seasonal ingredients include wild mushrooms and the Flowers of ginger and turmeric plants. Sumoh gorang is a dish cooked in bamboo and Hebaang is baked in banana leaves in a mud oven. Marma cuisine uses a paste of dried fish called nappi. Rice beer is a popular drink."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_007",
+            "query": "How has Mughal influence shaped Pakistani cuisine?",
+            "response": "The Mughal influence has significantly shaped Pakistani cuisine in several ways:\n\n1. **Culinary Practices**: The Mughals introduced many recipes and dishes into the region, influencing the cooking methods and techniques used in Pakistani cuisine.\n   \n2. **Taste Variations**: The Mughal legacy includes strong spices and flavors, which are characteristic of Pakistani cuisine. These spices are often used in dishes that are both aromatic and flavorful.\n\n3. **Dietary Restrictions**: Due to the prohibition against eating pork and alcohol, the Mughals ensured that the diet of the locals remained healthy and balanced, contributing to the overall healthiness of Pakistani cuisine.\n\n4. **Preparation Techniques**: The Mughal period saw advancements in cooking techniques, including the development of new methods for preparing certain dishes, such as the use of steaming instead of frying.\n\n5. **Regional Influences**: The Mughal influence extended beyond just the region itself, spreading to neighboring areas and even influencing the cuisine of other parts of South Asia.\n\n6. **Influence on Other Cultures**: The Mughal legacy has had a profound impact on other cultures, including those in Europe and the Middle East, where they have adopted many aspects of Mughal cuisine.\n\n7. **Historical Influence**: The Mughal Empire left behind a rich culinary tradition that continues to influence modern Pakistani cuisine today.\n\nOverall, the Mughal influence has been instrumental in shaping the unique flavor profile and cooking styles of Pakistani cuisine, making it distinctively different from other regional cuisines in South Asia.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Pakistani cuisine is influenced by neighbouring Indian cuisine and Central Asia, as well as having historical influences from the Mughal Empire, ruled from the 1500s by a Muslim dynasty. There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis, with the eastern part of the country favouring strongly seasoned and spicy food, similar to their Indian neighbours, whereas the western part favours milder recipes that resemble their Central Asian neighbours. One thing seems to unite many Pakistanis however: the average citizen eats many times more meat than their neighbours. The Indus valley, which runs through Pakistan, was one of the early cradles of civilisation due to its climatic conditions and fertile earth. This region nurtured the rise of numerous ingredients critical to Pakistani food from as early as 3000 BC, including eggplant, turmeric, cardamom, black pepper, mustard, sesame and the domestication of cattle. As with some Central Asian countries, it is common for many families to eat cross-legged on the floor around a cloth called a dastarkhan, or a slightly raised platform called a takht. I think I might start championing this custom all over the globe – it would be great to save space by not having a big bulky dining table that’s rarely used, and to be able to invite innumerable guests for dinner, only requiring a large enough cloth to accommodate them all!"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Pakistani cuisine (Urdu: پاکستانی پکوان) is part of the greater South Asian with significant influence from West Asian cuisines and Central Asian cuisines due to its geographic location and influence. As a result of Mughal legacy, Pakistan also mutually inherited many recipes and dishes from that era alongside India."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The Mughal and Indo-Iranian heritage played an influential role in the making of their cuisine, having taste vary from mild to spicy and is often associated with aroma. In comparison to other native Pakistani dishes, Muhajir cuisine tends to use stronger spices and flavors. Most of a dastarkhawan dining table include chapatti, rice, dal, vegetable and meat curry. Special dishes include biryani, qorma, kofta, seekh kabab, Nihari and Haleem, Nargisi Koftay, Kata-Kat, Rogani Naan, Naan, Sheer-qurma (sweet), qourma, Chai, paan and Hyderabadi cuisine, and other delicacies associated with Muhajir culture. Nihari, the national dish of Pakistan was brought to Pakistan by the Muhajir people from India."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Pakistan's national cuisine directly inherits from Indo-Aryan, Turko-Persian, Iranic, and Arab, and it is heavily influenced by Muslim culinary practices. Evidence of controlled preparatory cuisine in the region can be traced back to as early as the Bronze Age with the Indus Valley Civilization. Around 3000 BCE, sesame, eggplant, and humped cattle were domesticated in the Indus Valley; spices like turmeric, cardamom, black pepper and mustard were harvested in the region concurrently. For a thousand years, wheat and rice served as basic comestibles in the Indus Valley region."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "The arrival of Islam within South Asia influenced the local cuisine to a great degree as Muslims are forbidden to eat pork or consume alcohol along with the other enforced Islamic dietary laws. Pakistanis focus on other areas of food such as beef, lamb, chicken, fish, lentils and vegetables as well as traditional fruit and dairy. The influence of Central Asian, North Indian and Middle Eastern cuisine in Pakistani food is ubiquitous. Much of the food of Lahore is influenced by the local Punjabi and Mughlai cuisine. Along with traditional local food, Chinese, western and foreign foods are popular throughout the city and have often been fused with local recipes to create refined tastes; Pakistani Chinese food is largely available."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_008",
+            "query": "What type of rice is commonly used in Afghan Kabuli palaw?",
+            "response": "Based on the information provided, the type of rice commonly used in Afghan Kabuli palaw is rice. Specifically, the source states:\n\n\"Prominent dishes include Kabuli palaw, a flavorful rice dish with meat, carrots, and dried fruits\"\n\nThis indicates that kabuli palaw is indeed a popular dish in Afghanistan, particularly in the Pashtun region, where it is known as kabuli palaw.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The culinary traditions of Khyber Pakhtunkhwa are deeply rooted in Pashtun or Afghan culture and are heavily influenced by Iranic culinary traditions. Pashtun cuisine is characterized by a preference for rice-based dishes, kebabs, and lamb. Prominent dishes include Kabuli palaw, a flavorful rice dish with meat, carrots, and dried fruits; bannu pulao, a beef and stock-based rice dish; chapli kabab, a spiced and crispy minced meat patty; tika, marinated and grilled meat skewers; and mutton karahi, a savory, rich stew. Local variations such as Peshawari cuisine further showcase the diverse culinary practices of the region. Like Balochi cuisine, Pashtun cuisine is traditionally non-spicy. In recent years, rosh has taken traction with locals who enjoy the Balochi dish."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Kabuli pulao is a dish from northern Afghanistan, often considered to be the national Afghan dish. The meal is thought to be named after Kabul, the capital of Afghanistan, or perhaps a derivation of a word meaning “excellent”, and pulao is a general term for a rice dish that is parboiled then steamed with other ingredients, creating a crust on its bottom. In Kabuli pulao, these other ingredients are traditionally raisins, onion, garlic, carrots, almonds, pistachios, lamb, and a spiced syrup, which is infused through the rice, made with sugar, lamb stock, garam masala and cardamom. Right at the end when the rice is almost cooked, hot oil is poured over the parboiled rice layered with other ingredients, and it is cooked without stirring with a tea towel placed under the lid to absorb some moisture and create the crust on the bottom. This is similar to the famous Iranian tadig – rice cooked with a crunchy crust. Some recipes suggest that you can substitute the traditional lamb with other meats, but I think the lamb was ideal – the strongly-flavoured fat coated the rice to create glossy grains with an umami flavour that complemented the sweet spices. In fact, prior to exploring the world’s cuisines, I wasn’t overly fond of lamb, but discovering these sorts of slightly sweet lamb and rice dishes has completely converted me – I assure you it’s the best way to eat the meat! Along with the stewed chunks of lamb leg I slow cooked with my rice broth, I also grilled lamb chops (kabab e"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Afghan cuisine is influenced by Persian, Central Asian, and Indian cuisines due to Afghanistan's close proximity and cultural ties. The cuisine is halal and mainly based on lamb, beef, and poultry with rice and Afghan bread."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Pashtun cuisine (Pashto: پښتنۍ خواړه) or Afghan cuisine refers to the cuisine of the Pashtun people and is covered under Afghan and South Asian cuisines. It is largely based on meat dishes including mutton, beef, chicken, and fish, as well as rice and some other vegetables. Accompanying these staples are dairy products (yogurt, whey, cheeses), various nuts, local vegetables, and fresh and dried fruits. Peshawar, Kabul, Bannu, Quetta, Kandahar and Mardan are centers of Pashtun cuisine."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Afghanistan has historically been an important intersection of trade between the bordering areas of Pakistan, India and China to the East, Iran to the west, and the other ‘stans to the north. The cuisine that arose took influences from many of these places, as well as being shaped by the harsh cold and mountainous climate. The centuries of war and invasion further forced Afghanis to take advantage of cheap and readily-available ingredients to make the best of scarce times – circumstances that are generally considered to produce some of the best and most ingenious recipes in the world. Lamb and mutton are much used, with the fat of the mutton being an important component to sustain the population through freezing winters. Rice is also critical to the culture, and several different types of rice-based dish are expected to be served at large family celebrations. If you lived in Afghanistan and were expecting a small number of guests in your home, you might lay out a dastarkhan, which is a collection of dishes arranged on a tablecloth on the floor, commonly involving a tea-pouring ritual. It is considered the height of rudeness to step on or over the dastarkhan, and it is expected that the best dishes be placed near the guests. Although I don’t include drinks in my project, tea is crucially important in Afghani culture, including green, black or milk varieties, often flavoured with sugar or cardamom. I’m not usually partial to sweet drinks, but I found myself fantasising about"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_009",
+            "query": "How does Sindhi biryani differ from Hyderabadi biryani?",
+            "response": "Sindhi biryani differs from Hyderabadi biryani in several ways:\n\n1. **Spices Used**: \n   - Hyderabadi biryani uses Basmati rice.\n   - Sindhi biryani uses chickpeas.\n\n2. **Dietary Preferences**:\n   - Hyderabadi biryani is primarily vegetarian.\n   - Sindhi biryani includes both meat and non-meat components.\n\n3. **Cooking Method**:\n   - Hyderabadi biryani is prepared by simmering the rice over low heat until tender.\n   - Sindhi biryani is often cooked quickly, possibly using a pressure cooker.\n\n4. **Texture**:\n   - Hyderabadi biryani tends to be thicker and less finely textured.\n   - Sindhi biryani can have a slightly thinner texture due to the inclusion of meat.\n\n5. **Flavor Profile**:\n   - Hyderabadi biryani is characterized by its rich, nutty flavor.\n   - Sindhi biryani offers a more robust, spicy taste profile.\n\n6. **Regional Variations**:\n   - Hyderabadi biryani is more widely consumed across the country.\n   - Sindhi biryani is particularly popular in coastal areas and among the Sindhi community.\n\n7. **Dietary Restrictions**:\n   - Hyderabadi biryani may contain restrictions related to certain types of meat.\n   - Sindhi biryani is generally free from dietary restrictions.\n\n8. **Historical Context**:\n   - Hyderabadi biryani originated in Hyderabad, while Sindhi biryani originates in Karachi.\n   - Both are influenced by the broader regional cuisines of the region.\n\nIn summary, while both Hyderabadi and Sindhi biryani share some similarities in their preparation methods and overall flavor profile, they differ significantly in terms of the specific ingredients used, cooking techniques, and cultural contexts in which they are enjoyed.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Hyderabadi biryani is a popular variety of biryani. It is so named as it is seen mainly in the city of Hyderabad, India, where the dish emerged from the blending of mughlai and Andhra cuisines in the kitchen of the Nizam (leader of the historical Hyderabad state). It, like other biryanis, is made using Basmati rice which is only found on the Indian subcontinent. The spices and other ingredients remain the same, but the method of preparation involves more time."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Hyderabadi biryani and palaav, or \"Andhra biryani\", are popular dishes within the region. Royyala palav, made with shrimp, is considered a delicacy in coastal Andhra Pradesh. Mutton biryani and mixed biryani (chicken, mutton, and shrimp) are other popular biryani dishes, generally available in restaurants. There are many local variations as well, such as kaaja biryani, kunda biryani (pot biryani), avakaya biryani, ulavacharu biryani, and panasa biryani."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "There are occasional differences in Sindhi dialects for instance Hyderabadi Sindhi will refer to an egg as 'bedo' however Sindhis from other parts will refer to it as 'aano'."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Biryani is a commonly served dish in Pakistan, and has many varieties, such as Lahori and Sindhi biryani. Tahiri, which is a vegetarian form of biryani, is also popular. All of the main dishes (except those made with rice) are eaten alongside bread. Pickles made out of mangoes, carrots, lemon, and other fruits and vegetables are also commonly used to further spice up the food."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Sindhi cuisine refers to the traditional culinary practices of the Sindhi people from the Sindh province of Pakistan. Like most Pakistani culinary traditions, it is predominantly meat-based, with chicken and mutton forming the cornerstone of most meals. Signature dishes of the Sindhi people include Sindhi biryani, karhi, daal pakwan, palo fish, and bhugal gosht. Sindhi cuisine is typically not spicy, focusing on aromatic and balanced flavors. In contrast, the cuisine of Karachi, the capital of Sindh, reflects the influence of its Muhajir (Indian immigrant) population, which constitutes a significant portion of the city’s residents along with other communities in the city which further contribute to Karachi’s diverse cuisine. Karachi’s food is known for its bold and spicy flavors."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_010",
+            "query": "How does Sri Lankan rice and curry differ from a North Indian thali?",
+            "response": "Sri Lankan rice and curry differ significantly from a North Indian thali in terms of preparation methods, ingredients, and overall structure. Here's how:\n\n1. **Preparation Methods**:\n   - **Sri Lankan Rice**: \n     - Boiled or steamed.\n     - Often served with a curry of fish or meat.\n     - Commonly includes vegetables, lentils, or fruits.\n   - **North Indian Thali**:\n     - Roti (flatbread).\n     - Dal (spiced lentil dish).\n     - Rice (usually brown rice).\n     - Various side dishes including vegetables, roti, papad, dahi (yogurt), chutneys, pickles, and sweets.\n\n2. **Ingredients**:\n   - **Sri Lankan Rice**:\n     - Primarily uses fresh fish, often in curries.\n     - May include steamed white rice, flatbread, dals, fresh coconut, coconut milk, lime, chillies, dried Maldive fish, and curry leaves.\n   - **North Indian Thali**:\n     - Uses more diverse ingredients, including potatoes, chickpeas, and spices.\n     - Includes a variety of vegetables, such as carrots, onions, tomatoes, and cauliflower.\n     - May include roti, dal, rice, and various side dishes like dahi (yogurt), chutneys, pickles, and sweets.\n\n3. **Structure**:\n   - **Sri Lankan Thali**:\n     - Typically starts with a round thali containing different types of breads (puris or chapatis) and vegetarian specials (curries).\n     - Usually ends with a sweet dish like mohanthal, jalebi, or sevaiya.\n   - **North Indian Thali**:\n     - Typically starts with a round thali containing different types of breads (puri or chapatis) and vegetarian specials (curries).\n     - Usually ends with a sweet dish like mohanthal, jalebi, or sevaiya.\n     - May include additional dishes like roti, dal, rice, and various side dishes.\n\nIn summary, while both Sri Lankan and North Indian thalis serve rice and curry, the specific ingredients, preparation methods, and structures are quite distinct due to the varied dietary preferences and cultural influences of these regions.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The central feature of Sri Lankan cuisine is boiled or steamed rice, served with a curry of fish or meat, along with other curries made with vegetables, lentils, or fruits."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "I grouped Sri Lanka and The Maldives together because both are, to varying degrees, lost in the great expanse of the Indian Ocean, and their cuisines have influenced each other, as well as having been influenced by similar external forces, over the centuries. Sri Lanka has taken cues from the cuisines of neighbouring Southern India, as well as various migrants/invaders over the years, notably Indonesia, Malaysia, China, Britain, The Netherlands and Portugal. The standout flavours/ingredients that pervade Sri Lankan cooking include fresh fish, often in curries, steaming white rice, flatbreads, dals, fresh coconut and coconut milk, lime, chillies (often flavouring various “sambols”; describing all sorts of spicy pastes/dips/accompaniments) dried Maldive fish and curry leaves. This latter component formed one of my favourite culinary revelations of adulthood, in which my parents planted a curry leaf tree in their beautiful garden, and on one of my many tours to assess the horticultural progress, I realised I didn’t know what curry leaves were like, and pinched one between my fingers to smell it. Instantly, I was transported back to my childhood, where lovely Sri Lankan friends would bring us leftover curries from big events, always insisting “no no, it’s not spicy at all”. If you’ve ever been friends with a Sri Lankan family, you will already know that they were obviously lying, but the food was so good that I persisted eating it through tears of pain as it burned my 8 year old"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Gujarati cuisine is the cuisine of the Indian state of Gujarat. The typical Gujarati thali consists of rotli, dal or curry, rice, and shaak (a dish made up of several different combinations of vegetables and spices, which may be either spicy or sweet). The thali will also include preparations made from pulses or whole beans (called kathor in Gujarati) such as moong or black-eyed beans, a snack item (farsaan) like dhokla, pathra, samosa, or fafda, and a sweet (mishthaan) like mohanthal, jalebi, or sevaiya."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Sri Lankan cuisine has been shaped by many historical, cultural, and other factors. Foreign traders who brought new food items; influences from Malay cuisine and South Indian cuisine are evident."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Dishes served in a thali vary from region to region in the Indian subcontinent and are usually served in small bowls, called katori in India. These katoris are placed along the edge of the round tray, the actual thali; sometimes a steel tray with multiple compartments is used. Typical dishes include rice, dal, vegetables, roti, papad, dahi (yogurt), small amounts of chutney or pickle, and a sweet dish. Rice or roti is the usual main dish that occupies the central portion of the thali, while side dishes like vegetable curries and other aforementioned delicacies are lined circularly along the round thali. Depending on the restaurant or the region, the thali consists of delicacies native to that region. In general, a thali begins with different types of breads such as puris or chapatis (rotis) and different vegetarian specialities (curries). However, in South India and Southeast Asia, rice is the only staple served with bhojanams. Thalis or Bhojanams are sometimes referred to by the regional characteristic of the dishes they contain. For example, one may encounter Andhra bhojanam, Nepalese thali, Rajasthani thali, Gujarati thali, Maharashtrian thali, Manipuri chakluk, Tamil unavu and Thai unavu. In many parts of South Asia, Southeast Asia and the Caribbean, the bread and the rice portions are not served together in the thali. Typically, the bread is offered first with rice being served afterwards, often in a separate bowl or dish."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_011",
+            "query": "What vegetables are typically used in Aloo Gobi?",
+            "response": "Based on the information provided:\n\n- Aloo Gobi is traditionally made with potatoes (aloo) and cauliflower (gobhi).\n- Other common vegetables include garlic, ginger, onion, coriander stalks, tomato, black pepper, asafoetida, cumin, and tomatoes.\n- Some additional common vegetables mentioned include ker (capparis decidua), sangri (prospeisis cineraria), gunda (cordia dichotoma), kuma (acacia senegal), guar phali (cluster bean), moringa (drumstick), kikoda (spiny gourd), kamal kakdi (lotus stem), kachri (cucumis pubescens), fogla, borkut ber, fofaliya (dry tinda), and some greens like mustard, chana (gram), bathua, methi (fenugreek), and saag (sausage).\n\nSo, the main vegetables used in Aloo Gobi are potatoes (aloo) and cauliflower (gobhi).",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Aloo gobhi, aloo gobi or alu gobhi (pronounced [äːluː goːbʱiː]) is a vegetarian dish from the Indian subcontinent made with potatoes (aloo), cauliflower (gobhi), and Indian spices. It is popular in Indian cuisine. It is yellowish in color due to the use of turmeric, and occasionally contains black cumin and curry leaves. Other common ingredients include garlic, ginger, onion, coriander stalks, tomato, peas, black pepper, asafoetida and cumin. There are a number of variations and similar dishes."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Some unique vegetables used in Rajasthan are: Ker (Capparis decidua), Sangri (Prosopis cineraria), Gunda (Cordia dichotoma), Kumatiya (Acacia senegal), Guar phali (cluster bean), Moringa (drumstick), Kikoda (spiny gourd), Kamal kakdi (lotus stem), Kachri (Cucumis pubescence), fogla, borkut ber, fofaliya (dry tinda). Other common vegetables of Rajasthan are Aloo (potatoes), Kanda (onion), Bhindi (okra), Gajar (carrot) cucurbits like pumpkin and ash gourd. Greens of Sarson (mustard), Chana (gram), bathua, methi (fenugreek) are also commonly used. Vegetable preparations are often called Saag, while saucy preparations are called Teewan or Teeman. The combo of Saag & Rota forms part of staple diet of Rajasthan."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Aloo gobi (or gobhi) is a South Asian dish popular in both India and Pakistan. Aloo means potato and Gobi means cauliflower. This dish has a prominent role in the movie Bend It Like Beckham, and it can be prepared in a variety of ways. Also, sometimes aloo gobi is made without the tomato."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Dishes, with or without meat, combined with local vegetables, such as bitter gourd, cauliflower, eggplant, okra, cabbage, potatoes, rutabaga, saag, and chili peppers are most common and cooked for everyday consumption. A typical example is aloo gosht (literally \"potatoes and meat\"), a homestyle recipe consisting of a spiced meat and potato stew, prepared in many households. Korma is a classic dish of Mughlai origin made of either chicken or mutton, typically eaten with naan or other bread, and is very popular in Pakistan."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "There are plenty of vegetarian-friendly vegetable and legume dishes popular in Pakistan. These are often cooked using traditional spices and flavoring agents such as chilis, turmeric, garlic, ginger, cumin, cloves, cinnamon, and fennel seeds. Dishes such as baingan bartha and sarson da saag are typical examples eaten in most homes. Aloo mutter is made with potatoes and peas."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_012",
+            "query": "Why is vegetarianism widely practiced in Indian cuisine?",
+            "response": "Vegetarianism is widely practiced in Indian cuisine because it reflects the diverse ethnic backgrounds and cultural influences present in the country. This includes the influence of Jainism, which emphasizes spiritual motivation and minimizes harm to plants. Additionally, the tradition of vegetarianism has roots in ancient Hindu dietary practices and has evolved over time to accommodate various dietary preferences and restrictions. The emphasis on minimal harm to animals and plants aligns with Jain principles, making vegetarianism a significant aspect of Indian cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Indian cuisine is characterized by its sophisticated and subtle use of many Indian spices. There is also the widespread practice of vegetarianism across its society although, overall a minority. Indian cuisine is one of the world's most diverse cuisines, each family of this cuisine is characterized by a wide assortment of dishes and cooking techniques. As a consequence, Indian cuisine varies from region to region, reflecting its ethnically diverse demographics. India's religious beliefs and culture has played an influential role in the evolution of its cuisine. It has influences from Middle Eastern cuisine, Southeast Asian cuisine, East Asian cuisine and Central Asian cuisine, as well as the Mediterranean cuisines due to the historical and contemporary cross-cultural interactions with these neighboring regions."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The vegetarian cuisines of some regions of the Indian subcontinent have been strongly influenced by Jainism. These include"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Jain vegetarianism is practiced by the followers of Jain culture and philosophy. It is one of the most rigorous forms of spiritually motivated diet on the Indian subcontinent and beyond. The Jain cuisine is completely lacto-vegetarian and excludes root and underground vegetables such as potato, garlic, and onion to prevent injuring small insects and microorganisms. Other vegetables that have a higher chance of containing small organisms such as cauliflower, eggplant, mushroom and broccoli are also not consumed. The diet is associated with practices that aim to minimise harm to plants, such as avoiding the uprooting of entire plants during harvest. It is practised by Jain ascetics and lay Jains."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "For Jains, vegetarianism is mandatory. In 2021 it was found that 92% of self-identified Jains in India adhered to some type of vegetarian diet and another 5% seem to try to follow a mostly vegetarian diet by abstaining from eating certain kinds of meat and/or abstaining from eating meat on specific days. In the Jain context, vegetarianism historically stems from the objective of minimizing violence to all beings."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Originating for the Marwar region of the state is the concept Marwari Bhojnalaya, or vegetarian restaurants, today found in many parts of India, which offer vegetarian food of the Marwari people. The history also has its effect on the diet as the Rajputs preferred majorly a non-vegetarian diet while the Brahmins, Jains, Bishnois and others preferred a vegetarian diet. So, the state has a myriad of both types of delicacies."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_013",
+            "query": "What is the dum cooking method used in Hyderabadi cuisine?",
+            "response": "The dum cooking method used in Hyderabadi cuisine is called \"rihaakuru\". This dish is described as being made with sorghum flour and is typically served with a variety of curries, including enegayi (stuffed aubergine) and chutneys.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Andhra Pradesh cuisine is hotly-spiced and often vegetarian, with seafood prominent along the coast; Kerala too has a range of seafood dishes from its coastline. The cuisine of Tamil Nadu is similarly mainly vegetarian, but even hotter. In Telangana, Hyderabadi cuisine is somewhat milder but subtle and full of flavour, making use of saffron, nuts, and dried fruits as well as warmer spices in dishes for the Nizams, the former rulers. A staple of Karnataka cuisine is jolada rotti, a flat unleavened bread made of sorghum flour. It is eaten with pulse curries, ennegayi (stuffed aubergine) and chutneys. The cuisine of Lakshadweep is based on coconut, fish, and starches; a range of dishes employ oconut milk. Fish, especially tuna, is important in the cuisine; tuna meat is made into Rihaakuru, a thick brown fish sauce."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Hyderabadi biryani is a popular variety of biryani. It is so named as it is seen mainly in the city of Hyderabad, India, where the dish emerged from the blending of mughlai and Andhra cuisines in the kitchen of the Nizam (leader of the historical Hyderabad state). It, like other biryanis, is made using Basmati rice which is only found on the Indian subcontinent. The spices and other ingredients remain the same, but the method of preparation involves more time."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Kodi (chicken) koora and mutton koora are two popular meat dishes, often made with a range of spices and condiments. The base usually consists of onions, tomato, coriander, tamarind, and coconut. These are mixed with steamed rice on the plate during the meal. Pepper is also used on fried meat dishes. Popular dishes commonly served in Andhra-style restaurants include the spicy Andhra chili chicken, chicken roast, and mutton pepper fry. For seafood dishes, a tamarind base is generally used. Shrimp and prawns are widely available for use in cuisine, due to the state's extensive shrimp farming industry."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Andhra cuisine is the traditional culinary style of the Telugu people, who are native to the Indian state of Andhra Pradesh. It is generally known for its tangy, hot, and spicy taste."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Tamate Ka Kut is a tomato curry of Hyderabadi cuisine."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_014",
+            "query": "How does regional diversity influence staple grains used across Indian cuisines?",
+            "response": "Regional diversity significantly influences staple grains used across Indian cuisines through several key factors:\n\n1. **Geographical Variations**: Different regions in India experience varying climatic conditions, soil types, and water availability. This leads to distinct local grain preferences. For example, the northern regions, which are drier and cooler, favor wheat over rice, while the southern regions prefer wheat over rice and consume more meat and seafood.\n\n2. **Historical Influences**: Many traditional Indian dishes incorporate ingredients from neighboring regions such as Pakistan and the Middle East. This historical interaction has shaped regional cuisines, often resulting in dishes that reflect the tastes and flavors of these neighboring cultures.\n\n3. **Ethnic Diversity**: The diverse ethnic populations in India contribute unique dietary practices and ingredients. For instance, the majority of the population consumes vegetarian dishes, which can vary widely depending on the region. Additionally, some communities may have strong historical ties to specific regions, leading to regional specialties.\n\n4. **Diverse Climate Conditions**: India experiences a range of climates, from arid deserts to tropical rainforests. This variation in climate affects the types of crops that can be grown and the nutritional content of the food. For example, the southern regions have higher temperatures and require more protein-rich foods, whereas the northern regions have lower temperatures and need fewer animal proteins.\n\n5. **Religious Beliefs and Cultural Influences**: Religious beliefs and cultural practices play a significant role in shaping Indian cuisine. For example, Hinduism emphasizes vegetarianism, which influences the diet of many Indians. Similarly, Buddhism and Jainism have had a profound impact on Indian cuisine, influencing the use of certain spices and ingredients.\n\n6. **Historical Cross-Cultural Interactions**: Over time, various cultures have interacted with Indian cuisine, introducing new ingredients and cooking methods. This interplay has led to the development of unique regional cuisines.\n\n7. **Sourness and Amchoor Usage**: Sourness is a common flavor in Indian cuisine, and it is often associated with certain dishes. The presence of amchoor (a dry mango powder) and pre-mixed dry spice powders in Pakistani cuisine reflects the influence of Pakistani culture on Indian cuisine.\n\nIn summary, regional diversity plays a crucial role in shaping the staple grains used across Indian cuisines, influencing both the types of grains available and the specific combinations of ingredients that are incorporated into dishes.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The food in the region around Puri and Cuttack is greatly influenced by the Jagannath Temple. On the other hand, kalonji and mustard paste are used mostly in every part of the state. In the regions closer to Andhra Pradesh, like Brahmapur, due to the influence of South Indian cuisine, curry leaves and tamarind are used more."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Pakistani cuisine (Urdu: پاکستانی پکوان, romanized: pākistānī pakwān) is a blend of regional cooking styles and flavours from across the Indian subcontinent, Central and West Asia. It is a combination of Iranian, South Asian and Arab culinary traditions. The cuisine of Pakistan also maintains many Mughlai cuisine influences within its recipes and cooking techniques, particularly the use of dried fruits and nuts. Pakistan's ethnic and cultural diversity, diverse climates, geographical environments, and availability of different produce lead to diverse regional cuisines."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Indian cuisine is characterized by its sophisticated and subtle use of many Indian spices. There is also the widespread practice of vegetarianism across its society although, overall a minority. Indian cuisine is one of the world's most diverse cuisines, each family of this cuisine is characterized by a wide assortment of dishes and cooking techniques. As a consequence, Indian cuisine varies from region to region, reflecting its ethnically diverse demographics. India's religious beliefs and culture has played an influential role in the evolution of its cuisine. It has influences from Middle Eastern cuisine, Southeast Asian cuisine, East Asian cuisine and Central Asian cuisine, as well as the Mediterranean cuisines due to the historical and contemporary cross-cultural interactions with these neighboring regions."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Traditionally, the staple grains of the inland Deccan Plateau have been millets, jwari and bajri. These crops grow well in this dry and drought-prone region. In the coastal Konkan region the finger millet called ragi is used for bhakri. The staple meal of the rural poor was traditionally as simple as bajra bhakri accompanied by just a raw onion, a dry chutney, or a gram flour preparation called jhunka. Although in recent years consumption of millets has gone down, in central regions of Maharashtra it still accounts for 48% of cereal consumption per capita. Jhunka with bhakri has now become a popular street food in Maharashtra."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_015",
+            "query": "How does Mughlai cuisine differ from traditional South Indian cuisine?",
+            "response": "Mughlai cuisine differs significantly from traditional South Indian cuisine in several key ways:\n\n1. **Use of Spices**: Mughlai cuisine heavily relies on a variety of aromatic spices, including cardamom, cinnamon, cloves, nutmeg, saffron, and turmeric. This spice profile gives Mughlai dishes their distinctive flavor and aroma.\n   \n2. **Fatty Content**: Unlike South Indian cuisine, which tends to be less fatty, Mughlai dishes often contain substantial amounts of fat, particularly butter, ghee, and clarified butter. This contributes to the richness and depth of flavors in Mughlai cuisine.\n\n3. **Pork Consumption**: While both cuisines have some pork consumption, Mughlai cuisine places a higher emphasis on the consumption of meat, especially lamb and beef. This contrasts with the lower consumption of pork in South Indian cuisine.\n\n4. **Alcohol Usage**: Mughlai cuisine generally avoids alcohol, while South Indian cuisine frequently includes alcohol in various forms, such as beer, wine, and even curries.\n\n5. **Dietary Restrictions**: Mughlai cuisine is known for its strict adherence to Islamic dietary laws, which restrict certain foods like pork and alcohol. This dietary restriction influences the types of dishes that can be prepared.\n\n6. **Regional Variations**: Mughlai cuisine varies widely across different regions, reflecting the diverse cultural influences and geographical spread of the cuisine. In contrast, South Indian cuisine is more uniform and follows a single regional pattern.\n\n7. **Cooking Techniques**: Mughlai cuisine emphasizes slow-cooking techniques, such as roasting, braising, and stewing, which contribute to the deep, rich flavors characteristic of Mughlai dishes.\n\n8. **Artisanal Ingredients**: Mughlai cuisine often features locally sourced, artisanal ingredients, which adds authenticity and freshness to the dishes.\n\nIn summary, Mughlai cuisine is characterized by its reliance on a wide range of spices, higher levels of fat content, and strict dietary restrictions compared to South Indian cuisine, which is more focused on meat consumption and alcohol usage.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Awadhi cuisine, although similar to Mughlai cuisine, differs in its approach to cooking. Where Mughal dishes are rich in fats due to extensive use of milk, cream and spices, Awadhi food is more subtle."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The arrival of Islam within South Asia influenced the local cuisine to a great degree as Muslims are forbidden to eat pork or consume alcohol along with the other enforced Islamic dietary laws. Pakistanis focus on other areas of food such as beef, lamb, chicken, fish, lentils and vegetables as well as traditional fruit and dairy. The influence of Central Asian, North Indian and Middle Eastern cuisine in Pakistani food is ubiquitous. Much of the food of Lahore is influenced by the local Punjabi and Mughlai cuisine. Along with traditional local food, Chinese, western and foreign foods are popular throughout the city and have often been fused with local recipes to create refined tastes; Pakistani Chinese food is largely available."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The Nawabs of Dhaka brought Mughlai cuisine to Bengal. Mughlai cuisine, which is often lavish and expensive, was out of reach for many people for many centuries. It became more widespread as Bangladesh's economy grew. It is characterised by the use of meat and dairy ingredients, such as lamb, goat, beef, and yogurt together with mild spices. Its dishes include kebab, stuffed breads, kacchi biriyani, duck, and chicken, patisapta and others. Kashmiri tea and korma are still served on special occasions, like Eid and weddings."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "South Indian cuisine is distinguished by multiple elements, one being the use of intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. These make use of roasted spices and aromatic herbs, the dishes made hot with chili and pepper, sometimes with coconut milk."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Dhakaiya food is one of the most notable regional Bengali cuisines. The rich culinary customs are influenced by Mughlai, Central Asian, Armenian, Hindustani and native Bengali cuisines. However, it also has dishes unique to Dhaka. The Nawabs of Dhaka had brought Mughlai cuisine to Bengal, that were wholly retained by Dhaka's culinary community. Due to the high costs of producing Mughlai food, the recipes were limited to the elite classes in colonial India, and slowly expanded as Bangladesh's economy grew. The main focus on lamb, mutton, beef, yoghurt, and mild spices define the taste of the style. Such dishes as kebab; stuffed breads; kacchi biriyani; roast lamb, duck, and chicken; patisapta; Kashmiri tea; and korma are still served at special occasions like Eid and weddings. Due to the high class of the food, using an excess amount of expensive ingredients like ghee, and making the food melt in one's mouth were essential to the feel of the food."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_016",
+            "query": "How do staple grains differ between North Indian and South Indian cuisines?",
+            "response": "Staple grains differ significantly between North Indian and South Indian cuisines:\n\n1. **Cereal Grains**: \n   - **North Indian Cuisine**: Wheat is the primary grain used.\n   - **South Indian Cuisine**: Rice is the main grain used.\n\n2. **Carbohydrate Content**:\n   - **North Indian Cuisine**: More emphasis on wheat-based carbohydrates like breads, pastries, and desserts.\n   - **South Indian Cuisine**: More focus on rice-based carbohydrates like idlis, dosas, and other rice-based dishes.\n\n3. **Dietary Preferences**:\n   - **North Indian Cuisine**: Generally higher intake of wheat-based carbohydrates due to its role in various traditional dishes.\n   - **South Indian Cuisine**: Lower intake of wheat-based carbohydrates but higher intake of rice-based carbohydrates.\n\n4. **Regional Variations**:\n   - **North Indian Cuisine**: Richer curries, more use of spices, and a wider range of dishes.\n   - **South Indian Cuisine**: Diverse dishes, often lighter and simpler, reflecting local dietary preferences and traditions.\n\n5. **Historical Influences**:\n   - **North Indian Cuisine**: Strong historical influence from neighboring Pakistan and the Middle East.\n   - **South Indian Cuisine**: Strong historical influence from Jammu and Kashmir, Punjab, Haryana, Himachal Pradesh, Rajasthan, Uttarakhand, and Delhi.\n\nIn summary, the staple grains in North Indian cuisine are predominantly wheat, while in South Indian cuisine, rice plays a significant role. This difference in grain types leads to distinct flavors, textures, and overall culinary experiences across these regions.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "While Northern India’s climate is better suited to producing wheat and dairy, Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves and tropical fruits, such as coconut. As I’ve already covered in my Northern India blog, most of the curries that would be familiar to Westerners and served in international Indian restaurants are from the north, leaving the south as somewhat of an unknown quantity for me. As it turns out, the cuisine is remarkably varied, tasty and surprisingly healthy, and, despite my aversion to monotonous diets, I think I would be happy to eat this fare daily for quite some time."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food as a shining example of what can be achieved with ingenuity and appropriate use of spices. So much of the cooking involves turning cheap ingredients into taste sensations, which I think is why it’s become so internationally popular. It’s easy to make lobster and caviar taste amazing, it’s more challenging to work miracles with lentils and spinach (at least, in my opinion)."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Rice is a staple element in South Indian cuisine, served boiled or made into uttapam pancakes, dosas, or idli steamed cakes. Other characteristic ingredients include coconut oil for cooking and lentils for dal."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "North Indian cuisine is collectively the cuisine of North India, which includes the cuisines of Jammu and Kashmir, Punjab, Haryana, Himachal Pradesh, Rajasthan, Uttarakhand, Delhi, and Uttar Pradesh."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_017",
+            "query": "How does Mughal influence appear in both ingredients and cooking style within Indian cuisine?",
+            "response": "Based on the information provided:\n\n1. **Ingredients**: \n   - Mughal cuisine heavily incorporates Indian spices like cumin, coriander, turmeric, saffron, cardamom, cinnamon, cloves, and ginger.\n   - It frequently uses Indian herbs such as mint, basil, rosemary, and thyme.\n   - Mughlai cuisine emphasizes the use of yogurt, coconut milk, and jaggery in its dishes.\n\n2. **Cooking Style**:\n   - Mughlai cuisine is known for its strong spiciness and bold flavor profiles.\n   - It often features heavy use of spices and aromatic oils.\n   - The cooking methods are typically slow and involve deep-frying, roasting, and grilling.\n   - Mughlai dishes tend to be larger in size and served at longer intervals.\n   - The preparation process involves multiple steps, often involving simmering, frying, and baking.\n   - Mughlai cuisine is characterized by its emphasis on freshness and quality, often using fresh vegetables and fruits in its dishes.\n\nThese elements collectively reflect the Mughal influence on Indian cuisine, emphasizing bold flavors, spice usage, and complex cooking techniques typical of Mughlai cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "North Indian cuisine has some Central Asian influences introduced during Mughal Empire as compared to its southern or eastern counterparts in the subcontinent."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Awadhi cuisine (Hindi: अवधी पाक-शैली, Urdu: اودھی کھانے) is a cuisine native to the Awadh region in northern India and southern Nepal. Awadhi cuisine can be divided into traditional Awadhi cuisines and Nawabi cuisines. The cooking styles of Lucknow are similar to those of Central Asia, the Middle East, and northern India and Western India with the cuisine comprising both vegetarian and non-vegetarian dishes. The Awadh region has been influenced by Mughal cooking techniques and the cuisine of Lucknow, which bears similarities to those of Central Asia, Kashmir, Punjab and Hyderabad. The city is also known for its Nawabi foods."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The Mughal and Indo-Iranian heritage played an influential role in the making of their cuisine, having taste vary from mild to spicy and is often associated with aroma. In comparison to other native Pakistani dishes, Muhajir cuisine tends to use stronger spices and flavors. Most of a dastarkhawan dining table include chapatti, rice, dal, vegetable and meat curry. Special dishes include biryani, qorma, kofta, seekh kabab, Nihari and Haleem, Nargisi Koftay, Kata-Kat, Rogani Naan, Naan, Sheer-qurma (sweet), qourma, Chai, paan and Hyderabadi cuisine, and other delicacies associated with Muhajir culture. Nihari, the national dish of Pakistan was brought to Pakistan by the Muhajir people from India."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Pakistani cuisine is influenced by neighbouring Indian cuisine and Central Asia, as well as having historical influences from the Mughal Empire, ruled from the 1500s by a Muslim dynasty. There is great diversity across the varied cultural groups and regions of Pakistan, particularly along the east-west axis, with the eastern part of the country favouring strongly seasoned and spicy food, similar to their Indian neighbours, whereas the western part favours milder recipes that resemble their Central Asian neighbours. One thing seems to unite many Pakistanis however: the average citizen eats many times more meat than their neighbours. The Indus valley, which runs through Pakistan, was one of the early cradles of civilisation due to its climatic conditions and fertile earth. This region nurtured the rise of numerous ingredients critical to Pakistani food from as early as 3000 BC, including eggplant, turmeric, cardamom, black pepper, mustard, sesame and the domestication of cattle. As with some Central Asian countries, it is common for many families to eat cross-legged on the floor around a cloth called a dastarkhan, or a slightly raised platform called a takht. I think I might start championing this custom all over the globe – it would be great to save space by not having a big bulky dining table that’s rarely used, and to be able to invite innumerable guests for dinner, only requiring a large enough cloth to accommodate them all!"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Muslims conquered Bengal around the mid-thirteenth century, bringing with them Persian and Arabic cuisine. Such dishes as korma and bhuna had once been meals of the higher courts, but the cooks of the Mughals brought their recipes to the lower and middle classes. The influence was reinforced during the rule of the British Raj, where Kolkata became the place of refuge for many prominent exiled Nawabs, notably the family of Tipu Sultan from Mysore and Wajid Ali Shah, the ousted Nawab of Awadh. The exiles brought with them hundreds of cooks and masalchis (spice mixers), and as their royal patronage and wealth diminished, they became interspersed into the local population. These cooks came with the knowledge of a very wide range of spices (most notably jafran and mace), the extensive use of ghee, and marinating meat with yoghurt and chilli."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_018",
+            "query": "How does the use of coconut in South Indian cuisine contrast with its usage in North Indian cuisine?",
+            "response": "The use of coconut in South Indian cuisine contrasts significantly with its usage in North Indian cuisine. Specifically:\n\n1. Coconut is predominantly used in South Indian dishes like kambadi vade, fish preparations, and baked preparations. This indicates a preference for coconut-based ingredients in these dishes.\n   \n2. In contrast, coconut is rarely used in North Indian cuisine. For instance, in the Sambar dish mentioned in Source 3, coconut is not mentioned at all. Similarly, in the Malvani cuisine described in Source 4, coconut is not mentioned either.\n\n3. The use of coconut in South Indian cuisine suggests a focus on savory flavors and uses such as kambadi vade, where coconut is used to create a rich, flavorful sauce. This contrasts with the more vegetarian nature of some North Indian dishes, which might include more meat-based or seafood-based options.\n\n4. The absence of coconut in North Indian cuisine implies a more balanced approach to flavoring, possibly due to the cooler climate and availability of other ingredients.\n\nOverall, the use of coconut in South Indian cuisine reflects a preference for savory flavors and uses, whereas in North Indian cuisine, coconut is less frequently utilized and may reflect a more balanced approach to flavoring.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "South Indian cuisine is distinguished by multiple elements, one being the use of intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. These make use of roasted spices and aromatic herbs, the dishes made hot with chili and pepper, sometimes with coconut milk."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "In the coastal Konkan region, rice is the traditional staple food. Wet coconut and coconut milk are used in many dishes. Marathi communities indigenous to Mumbai and North Konkan have their own distinct cuisine. In South Konkan, near Malvan, another independent cuisine developed called Malvani cuisine, which is predominantly non-vegetarian. Kombdi vade, fish preparations and baked preparations are more popular there."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "In southern states of India, namely Karnataka, Andhra Pradesh, Telangana, Kerala and Tamil Nadu, sambar is made using different vegetables along with lentils or coconut. Each region has its own version of making sambar; even though the same vegetables are used, the condiments and ingredients, as well as the methods, differ. In Tulu-speaking areas of coastal Karnataka, coconut is predominantly used to prepare koddel (sambar). Grated coconut is ground with spices to form a paste which is added to boiled vegetables. In Kannada-speaking areas it is called saaru."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food as a shining example of what can be achieved with ingenuity and appropriate use of spices. So much of the cooking involves turning cheap ingredients into taste sensations, which I think is why it’s become so internationally popular. It’s easy to make lobster and caviar taste amazing, it’s more challenging to work miracles with lentils and spinach (at least, in my opinion)."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_019",
+            "query": "How does the tandoor cooking technique influence the texture and flavor of Indian breads and meats?",
+            "response": "The tandoor cooking technique significantly influences the texture and flavor of Indian breads and meats in several ways:\n\n1. **Bread Texture**: \n   - **Spots and Spattering**: The intense heat from rolling the dough into balls and pressing them against the inner walls of the tandoor creates spots and spattering, resulting in a crispy exterior and a soft interior.\n   - **Browning**: The high temperature causes intense browning, giving the bread a golden brown color and a rich, complex flavor profile.\n\n2. **Meat Flavor**:\n   - **Barbecue Flavor**: The combination of spices like fenugreek, cinnamon, cumin, coriander, and garlic gives the meat a smoky, aromatic flavor.\n   - **Grilled Flavor**: The grilled method adds a crisp, slightly charred texture to the meat, enhancing its flavor.\n   - **Baking Flavor**: The baking method results in a tender, flavorful meat that retains moisture and develops a unique flavor profile.\n\nOverall, the tandoor technique combines elements of both baking and grilling, creating a versatile and flavorful cooking method that enhances the textures and flavors of various dishes.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "In the baking process using a tandoor, naan dough is rolled into balls, flattened and pressed against the inner walls, which can reach temperatures up to 480 °C (900 °F). This method allows the bread to be baked within minutes, achieving a spotty browning due to intense heat. Naan can be prepared on a stovetop using a tava. The pan may be flipped upside down over the flame to achieve browning on the bread's surface."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The local cuisine of Punjab is heavily influenced by the agriculture and farming lifestyle prevalent from the times of the ancient Indus Valley Civilization. Dishes similar to tandoori chicken may have existed during the Harappan civilization during the Bronze Age of India. According to the archeologist Professor Vasant Shinde, the earliest evidence for a dish similar to tandoori chicken can be found in the Harappan civilization and dates back to 3000 BC. His team has found ancient ovens at Harappan sites which are similar to the tandoors that are used in the state of Punjab. Physical remains of chicken bones with char marks have also been unearthed. Harappan houses had keyhole ovens with central pillars which were used for roasting meats and baking breads. Sushruta Samhita records meat being cooked in an oven (kandu) after marinating it in spices like black mustard (rai) powder and fragrant spices. According to Ahmed (2014), Harappan oven structures may have operated in a similar manner to the modern tandoors of the Punjab."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "There are many styles of cooking in Punjab. In the villages many people still employ the traditional methods and equipment for cooking purposes. This includes wood-fired and masonry ovens. Modern methods include cooking on gas cookers. Tandoori style of cooking involves use of the tandoor. In India, tandoori cooking is traditionally associated with Punjab as Punjabis embraced the tandoor on a regional level. This style of cooking became popular throughout India after the 1947 partition when Punjabis resettled in places such as Delhi. According to Planalp (1971), \"the Panjab-style underground oven known as tandur is becoming increasingly popular in New Delhi\" pointing to the Punjabi style of the tandoor. In rural Punjab, it is common to have communal tandoors, which are also called Kath tandoors in Punjabi."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Tandoori masala is a mixture of spices specifically for use with a tandoor, or clay oven, in traditional Pakistani and Indian Punjabi cooking. The specific spices vary somewhat from one region to another, but typically include fenugreek, cinnamon, cumin, coriander, garlic, ginger, etc."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Rajasthani cooking employs use of Barbecue, grilling and baking techniques for preparing an array of foods. Various cooking equipments are used in Rajasthani culinary tradition for this purpose. Every household has its own grill locally known by the name Sigdi (Sanskrit: शकटी, Śakṭī) or Angithi (Sanskrit: अग्निस्थिका, Agnisthikā). Clay ovens called bhatthi or tandoor are also very common. In fact, these clay ovens i.e. Bhatthi (Sanskrit: भ्राष्ट्र Bhrāshtra) or tandoor originated in Rajasthan. Indus Valley site : Kalibangan in Rajasthan has the earliest archaeological evidence of using clay ovens resembling present day tandoors. These Sigdis/Angithis/Bhatthis or tandoors would then be used for baking breads like Baati, Angakadi, Baphla, Angarki roti, Kinwani roti (fermented flour roti). Often Soolas of maans (meat), macchli (fish) & chhena (cottage cheese) were barbecued using skewers in these clay oven. Khadd ka Pind is yet another barbecue technique employed by Rajasthan royal princes while their hunting expeditions."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_020",
+            "query": "How have religious dietary practices influenced the diversity of vegetarian dishes in Indian cuisine?",
+            "response": "Religious dietary practices have significantly influenced the diversity of vegetarian dishes in Indian cuisine in several ways:\n\n1. **Jain Vegetarianism**: This dietary practice has led to the development of distinct vegetarian dishes across various regions of India. For example, in some parts of Rajasthan, where Jainism is prevalent, vegetarian dishes like \"Gulab Jamun\" (pumpkin-flavored yogurt) and \"Bhajji\" (grilled vegetable skewers) are popular.\n\n2. **Lacto-Vegetarian Diet**: The Jain vegetarian diet emphasizes complete lacto-vegetarianism, which includes excluding all roots and underground vegetables. This has resulted in the creation of numerous unique dishes that do not contain any of these foods. Examples include \"Pav Bhaji\" (chicken curry with potatoes), \"Dahi Puri\" (rice pudding made with milk), and \"Tandoori Chicken\" (grilled chicken served with tandoori sauce).\n\n3. **Cultural Influences**: The Jain vegetarian diet has been shaped by cultural traditions and practices. For instance, the practice of avoiding the uprooting of entire plants during harvest reflects the importance of preserving natural resources in Jainic agriculture.\n\n4. **Ethnic Diversity**: The diverse ethnic backgrounds within India have contributed to the rich variety of vegetarian dishes. Each region has its own unique culinary traditions, which have evolved over time through interaction with other cultures.\n\n5. **Historical Context**: The historical and contemporary cross-cultural interactions between different regions have further enriched the diversity of Indian cuisine. This includes the influence of Middle Eastern, Southeast Asian, and East Asian cuisines, as well as the Mediterranean cuisines brought by trade and travel.\n\n6. **Regional Variations**: While there are common elements among all Indian cuisines, regional variations exist due to geographical isolation, cultural differences, and historical influences. For example, the Andhra cuisine, while being influenced by Telugu-speaking populations, has its own distinct flavors and ingredients.\n\nIn summary, the combination of Jain vegetarianism, the emphasis on complete lacto-vegetarian diets, cultural practices, historical influences, and regional variations has created a complex and diverse landscape of vegetarian dishes in Indian cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "The vegetarian cuisines of some regions of the Indian subcontinent have been strongly influenced by Jainism. These include"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Indian cuisine is characterized by its sophisticated and subtle use of many Indian spices. There is also the widespread practice of vegetarianism across its society although, overall a minority. Indian cuisine is one of the world's most diverse cuisines, each family of this cuisine is characterized by a wide assortment of dishes and cooking techniques. As a consequence, Indian cuisine varies from region to region, reflecting its ethnically diverse demographics. India's religious beliefs and culture has played an influential role in the evolution of its cuisine. It has influences from Middle Eastern cuisine, Southeast Asian cuisine, East Asian cuisine and Central Asian cuisine, as well as the Mediterranean cuisines due to the historical and contemporary cross-cultural interactions with these neighboring regions."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Jain vegetarianism is practiced by the followers of Jain culture and philosophy. It is one of the most rigorous forms of spiritually motivated diet on the Indian subcontinent and beyond. The Jain cuisine is completely lacto-vegetarian and excludes root and underground vegetables such as potato, garlic, and onion to prevent injuring small insects and microorganisms. Other vegetables that have a higher chance of containing small organisms such as cauliflower, eggplant, mushroom and broccoli are also not consumed. The diet is associated with practices that aim to minimise harm to plants, such as avoiding the uprooting of entire plants during harvest. It is practised by Jain ascetics and lay Jains."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "The eating habits of Hindu royals and Brahmins have historically had a heavy influence on Andhra cuisine. Andhra Pradesh's proximity to Western, Central, and Eastern India influenced the diversity of those border regions' cuisine as well, as the Telugu-speaking population spread into neighboring states. Different communities have developed their own variations, and rural areas still follow centuries-old cooking methods and recipes."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Some Brahmins—Kashmiri Pandits and Bengali Brahmins—have traditionally eaten meat (primarily seafood). However, in regions with strong Jain influence such as Rajasthan and Gujarat, or strong Jain influence in the past such as Karnataka and Tamil Nadu, Brahmins are strict vegetarians. Bal Gangadhar Tilak has described Jainism as the originator of ahimsa. He wrote in a letter:"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_021",
+            "query": "How do staple grains and primary cooking fats differ between North and South Indian cuisines?",
+            "response": "The staple grains and primary cooking fats in North Indian cuisine are wheat and coconut oil, while in South Indian cuisine they are rice and lentil oil. This difference is reflected in the specific types of cooking mentioned:\n\n- Wheat is predominantly used in North Indian cuisine.\n- Coconut oil is used in both North and South Indian cuisines.\n- Rice is used in North Indian cuisine but not in South Indian cuisine.\n- Lentil oil is used in South Indian cuisine but not in North Indian cuisine.\n\nThis distinction highlights the distinct flavors and cooking techniques associated with each region, reflecting the varying climates and dietary preferences of the respective areas.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                },
+                {
+                    "doc_id": "001",
+                    "text": "While Northern India’s climate is better suited to producing wheat and dairy, Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves and tropical fruits, such as coconut. As I’ve already covered in my Northern India blog, most of the curries that would be familiar to Westerners and served in international Indian restaurants are from the north, leaving the south as somewhat of an unknown quantity for me. As it turns out, the cuisine is remarkably varied, tasty and surprisingly healthy, and, despite my aversion to monotonous diets, I think I would be happy to eat this fare daily for quite some time."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food as a shining example of what can be achieved with ingenuity and appropriate use of spices. So much of the cooking involves turning cheap ingredients into taste sensations, which I think is why it’s become so internationally popular. It’s easy to make lobster and caviar taste amazing, it’s more challenging to work miracles with lentils and spinach (at least, in my opinion)."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Rice is a staple element in South Indian cuisine, served boiled or made into uttapam pancakes, dosas, or idli steamed cakes. Other characteristic ingredients include coconut oil for cooking and lentils for dal."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "North Indian cuisine is collectively the cuisine of North India, which includes the cuisines of Jammu and Kashmir, Punjab, Haryana, Himachal Pradesh, Rajasthan, Uttarakhand, Delhi, and Uttar Pradesh."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_022",
+            "query": "How is South Indian cuisine described in terms of flavor profile and ingredient emphasis in the Around the World in 80 Cuisines blog?",
+            "response": "Based on the information provided in the Around the World in 80 Cuisines blog, South Indian cuisine is characterized by its intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. This makes use of roasted spices and aromatic herbs, with dishes made hot with chili and pepper, sometimes with coconut milk. The blog notes that South Indian cuisine shares similarities with the cuisines of Sri Lanka and the Maldives due to a similar geographic location and culture.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "South Indian cuisine is distinguished by multiple elements, one being the use of intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. These make use of roasted spices and aromatic herbs, the dishes made hot with chili and pepper, sometimes with coconut milk."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "South Indian cuisine includes the cuisines of the five southern states of India— Andhra Pradesh, Karnataka, Kerala, Telangana, Tamil Nadu, and the union territory of Lakshadweep. Sub-cuisines within these include Udupi, Chettinad, Hyderabadi, Thalassery, Saraswat, and Mangalorean Catholic. South Indian cuisine shares similarities with the cuisines of Sri Lanka and the Maldives due to a similar geographic location and culture."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "While Northern India’s climate is better suited to producing wheat and dairy, Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves and tropical fruits, such as coconut. As I’ve already covered in my Northern India blog, most of the curries that would be familiar to Westerners and served in international Indian restaurants are from the north, leaving the south as somewhat of an unknown quantity for me. As it turns out, the cuisine is remarkably varied, tasty and surprisingly healthy, and, despite my aversion to monotonous diets, I think I would be happy to eat this fare daily for quite some time."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food as a shining example of what can be achieved with ingenuity and appropriate use of spices. So much of the cooking involves turning cheap ingredients into taste sensations, which I think is why it’s become so internationally popular. It’s easy to make lobster and caviar taste amazing, it’s more challenging to work miracles with lentils and spinach (at least, in my opinion)."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_023",
+            "query": "What are the key preparation steps in making Chicken Tikka Masala according to Wikibooks?",
+            "response": "According to the information provided in the sources listed, the key preparation steps in making Chicken Tikka Masala include:\n\n1. **Marinating the Chicken**: The chicken is first marinated in spices and yoghurt.\n2. **Coating the Chicken**: The chicken is coated with a mixture of yogurt and meat.\n3. **Slow-Roasting**: The coated chicken is slowly roasted in a tandoor oven.\n4. **Cooking the Chicken**: The chicken is cooked until it reaches the desired level of doneness.\n5. **Adding Spices**: The chicken is seasoned with various spices including salt, sugar, and other herbs.\n6. **Preparing the Masala**: A blend of spices is combined with plain yogurt.\n7. **Cooking the Masala**: The masala is cooked in the tandoor oven.\n8. **Finishing the Dish**: The dish is garnished with yellow rice and a spicy salad.\n\nThese steps outline the basic process of preparing Chicken Tikka Masala according to the given sources.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Chicken tikka is a chicken dish originating in the Punjab region of the Indian Subcontinent made by baking chicken which has been marinated in spices and yoghurt. It should not be confused with Chicken Tikka Masala (of which it is an ingredient). It is traditionally cooked on skewers in a tandoor and is usually boneless. It is tasty when served with yellow rice and a spicy salad."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The spices are ground to a fine powder in a coffee grinder or with a mortar and pestle. The masala is mixed with plain yogurt, and meat (usually chicken) is coated with the mixture, then slow-roasted in the tandoor. Chicken prepared in this fashion has a pink-coloured exterior and a savoury flavor."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "OK, OK, I know chicken tikka masala is probably not actually from India. Many (including the irrefutable QI) say that it actually originated in Glasgow in the 70s, after Indian spices were introduced to Great Britain. Wikipedia still says the origin is “disputed” however, and my boyfriend insisted that I cook it, so here we are. It’s usually tomato-based, with coconut cream and mild, sweet spices. Saag paneer basically has saag, which is a spinach-based curry, and paneer, which is cheese. I made the paneer, it’s pretty easy, you just follow the same steps as ricotta, but then at the end press it between two heavy objects so that it becomes a solid block. After that you just cut it up and lightly fry it. The cheese and spinach go really well together, especially with a squeeze of lemon on top."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Established in 1905, tunde ke kabab in Chowk is the most famous outlet for kababs even today. The tunde kabab is so named because it was the speciality of a one-armed chef. The tunde kabab claims to be unique because of the zealously guarded family secret recipe for the masala (homemade spices), prepared by women in the family. It is said to incorporate 160 spices."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Until recently, canned or frozen food was not widely available in India. Therefore, the vegetables used in a meal widely depended on seasonal availability. In Maharashtra, spring (March–May) is the season of cabbages, onions, potatoes, bhēṇḍī, guar and tondaḷi, śēvgyācyā śēṅgā, dudhi, marrow and padwal. During the Monsoon season (June–September) green leafy vegetables, such as aḷū (Marathi: अळू), or gourds such as karle, dodka and eggplant become available. Chili peppers, carrots, tomatoes, cauliflower, French beans, śēpu, and peas become available in the cooler climate of October to February. Coal fired roasted young cobs of Sorghum (Jvārī) is a popular item during winter picnics to the farms. Vegetables are typically used in making bhājīs (Indian stew). Some bhājīs are made with a single vegetable, while others are made with a combination. Bhājīs can be \"dry\" as in stir fry or \"wet\" as in the well-known curry. For example, fenugreek leaves can be used with mūg ḍāḷ or potatoes to make a dry bhājī or mixed with bēsan flour and buttermilk to make a curry preparation. Marathi bhājīs typically use gōḍa masālā, consisting of a combination of cloves, corriander powder, cumin, cinnamon, asafoetida, etc. and kanda-lasun masala made up of onion, garlic, ginger, red chilli powder, green chillies, turmeric and mustard seeds. Depending on a family's caste or specific religious tradition, onions and garlic may be excluded. For example, a number of Hindu communities from many parts of"
+                }
+            ]
+        },
+        {
+            "query_id": "SA_024",
+            "query": "How do staple grains differ between Bhutanese and Bangladeshi cuisines?",
+            "response": "Bhutanese cuisine differs significantly from Bangladeshi cuisine in terms of staple grains. Specifically:\n\n1. **Main Grains**: In Bhutanese cuisine, wheat (ganhum) and rice (chaaur) are the primary staples. These grains are typically used as whole grains or cooked in various ways like porridge, salads, or stews.\n\n2. **Other Cereals**: While rice is mentioned in both cuisines, it is not as commonly used as wheat in Bhutanese dishes. Other cereals such as maize (makai) and barley (jai) are less prevalent in Bhutanese cuisine compared to their counterparts in Bangladesh.\n\n3. **Curry Usage**: Bhutanese cuisine heavily relies on curry, which is made using spices like cumin, coriander, turmeric, and sometimes chili peppers. This contrasts with the more neutral flavors found in Bangladeshi cuisine where curry is not a prominent feature.\n\n4. **Dietary Similarities**: Both cuisines share some similarities in terms of dietary habits, including the inclusion of fish and other proteins, though these are not as prominently featured in either.\n\nIn summary, while both cuisines have rice as a staple food, Bhutanese cuisine emphasizes wheat and rice, whereas Bangladeshi cuisine focuses more on fish and uses a wider array of spices in its curries.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Rice is the staple food of Bangladesh, while fish is the most common source of protein in Bangladesh. There are 250 plant-based ingredients in Bangladeshi cooking. The use of mustard oil was the traditional edible oil before soybean oil was introduced."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Bangladeshi cuisine has been shaped by the region's history and riverine geography. Bangladesh has a tropical monsoon climate. The staple foods of Bangladesh are rice and fish. The majority of Bangladeshi people are ethnic Bengali, with a minority of non-Bengalis, many of whom are used to cuisines from different traditions and regions."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Bangladeshi cuisine is dominated by Bengali cuisine and has been shaped by the diverse history and riverine geography of Bangladesh. The country has a tropical monsoon climate. Rice is the main staple food of Bangladeshi people and it is served with a wide range of curries."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Bhutanese cuisine employs a lot of red rice (like brown rice in texture, but with a nutty taste, the only variety of rice that grows at high altitudes), buckwheat, and increasingly maize. The diet in the hills also includes chicken, yak meat, dried beef, pork, pork fat, and mutton. It has many similarities with Tibetan cuisine."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Wheat (ganhum गँहूम्) and rice (chaaur चाउर) are the staple cereal. Maize (makai मकई), barley (jai जई), and pearl millet (bajra बाजड़ा) are also often consumed in Bhojpuri cuisine."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_025",
+            "query": "How does the use of seafood reflect Bangladesh’s riverine geography?",
+            "response": "The use of seafood in Andhra cuisine reflects Bangladesh's riverine geography because:\n\n1. **Proximity to Water**: As mentioned in Source 4, \"There are 250 plant-based ingredients in Bangladeshi cooking. The use of mustard oil was the traditional edible oil before soybean oil was introduced.\" This indicates that Andhra cuisine relies on local marine resources for its ingredients, which aligns with the riverine geography of Bangladesh.\n\n2. **Dietary Staples**: Seafood is a significant component of Andhra cuisine, especially in coastal areas where rice is the staple food. This suggests that the riverside location of Andhra is crucial for the availability and consumption of these marine products.\n\n3. **Cultural Significance**: The inclusion of seafood in Andhra cuisine also reflects cultural practices related to fishing and maritime activities. It shows how the riverine environment influences the local economy and lifestyle, particularly in coastal regions.\n\nIn summary, the use of seafood in Andhra cuisine demonstrates the close relationship between the riverine geography of Bangladesh and the local marine ecosystem, which is reflected in the Andhra cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Bangladeshi cuisine has been shaped by the region's history and riverine geography. Bangladesh has a tropical monsoon climate. The staple foods of Bangladesh are rice and fish. The majority of Bangladeshi people are ethnic Bengali, with a minority of non-Bengalis, many of whom are used to cuisines from different traditions and regions."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Bangladeshi cuisine is dominated by Bengali cuisine and has been shaped by the diverse history and riverine geography of Bangladesh. The country has a tropical monsoon climate. Rice is the main staple food of Bangladeshi people and it is served with a wide range of curries."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Fish is a core part of the Bengali diet, and is the main source of protein. Bengalis typically use freshwater and brackish fish when making meals. Spices are used heavily in the preparation of fish, and the fish is usually served either as a curry or a fried steak. Popular fish curries include boal, rohu, ilish, and pabda."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "Rice is the staple food of Bangladesh, while fish is the most common source of protein in Bangladesh. There are 250 plant-based ingredients in Bangladeshi cooking. The use of mustard oil was the traditional edible oil before soybean oil was introduced."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Coastal Andhra is dominated by the Krishna and Godavari river delta regions and is adjacent to the Bay of Bengal. This proximity to water has led to rice, lentils, and seafood becoming dietary staples in the region. Andhra cuisine has its own variations, but dishes are predominantly rice-based. The Nellore region in the south has its own unique recipes, markedly different from those in Uttarandhra. Ulava charu (ఉలవచారు) is a soup made from horse gram, and bommidala pulusu (బొమ్మిడాల పులుసు) is a seafood stew that is considered a specialty of Andhra Pradesh. Andhra cuisine is prevalent in restaurants all over Andhra Pradesh, as well as in cities like Bangalore, Chennai, and New Delhi."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_026",
+            "query": "What preparation method is used in making traditional Afghan kebabs?",
+            "response": "Traditional Afghan kebabs are typically prepared using a combination of methods:\n\n1. **Grilling**: This is the most common method used for preparing Afghan kebabs. The meat is often cut into small pieces and seasoned with spices such as paprika, saffron, ground coriander, lemon, garlic, ginger, and other herbs and spices. The meat is then grilled on a tandoor (a large clay oven) until it reaches the desired level of doneness.\n\n2. **Marination**: After grilling, the meat is marinated in yogurt and various spices before being grilled again. This process helps to infuse the meat with flavor and allows it to cook evenly.\n\n3. **Cooking**: The grilled meat is then cooked on a tandoor, where it sits under hot coals until it reaches the desired internal temperature. This cooking time varies depending on the type of meat and the desired level of doneness.\n\n4. **Cooking on a Skewer**: Some kebabs may be cooked on skewers instead of directly on the tandoor. This method involves placing the meat on skewers and cooking it on each end separately, allowing the juices to redistribute throughout the meat.\n\n5. **Slow Cooking**: Some kebabs may be cooked slowly on a tandoor, allowing the meat to absorb flavors more gradually and develop a richer texture.\n\n6. **Stewing**: In some cases, the meat might be simmered in a flavorful broth, similar to how it would be done in a stewed dish.\n\n7. **Combining Methods**: The exact preparation method will depend on the specific recipe and ingredients used. For example, some recipes might use a combination of these methods to achieve the desired flavor profile.\n\nThese methods work together to create the distinct taste and texture of Afghan kebabs, making them a beloved part of Afghan cuisine.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Chapli kebab originates from Peshawar in northwest Pakistan (and is therefore also sometimes called Peshwari kebab), but is now popular all over the country, as well as in India and Afghanistan. It can be served at barbecues, by street vendors, in lunch boxes, by restaurants or home cooks. The word chapli comes from a Pashto word meaning “flat”, which refers to the classic shape of the kebab which resembles a round hamburger patty. However, there are also some who argue it comes from another word meaning “sandal”, and that the kebabs are supposed to resemble the size and thickness of the front sole of a traditional shoe. I made my chapli kebabs by marinating beef mince (although lamb is also sometimes used), with garam masala, chilli powder, cayenne pepper, coriander, mint, onions, tomatoes, ginger, garlic, cumin, lemon and egg to bind. I then formed them into patties and shallow-fried them in a saucepan. Chana chaat is a classic street food made with cooked chickpeas, cubes of potato, onion and tomato, spices with chilli, cumin, chaat masala, lime/lemon juice, coriander and mint. Its name comes from words which can mean “a delicacy” “to lick/taste” and “to eat noisily”. A name to raise one’s expectations if ever there was one! Indeed both the kebabs and chana chaat were extremely aromatic and delicious, and, along with the green salad, provided a mix of colours, temperatures and textures that was very enjoyable."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Seekh kebab is a type of kebab from the Indian subcontinent. It is made with Indian spices, spiced minced or ground meat, usually lamb, beef, or chicken, formed into cylinders on skewers and grilled. It is typically cooked on a mangal or barbecue, or in a tandoor. Seekh kebabs are prepared in homes and restaurants throughout the Indian subcontinent."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "The seekh kebab was introduced by the Mughals; it was originally prepared from beef mince on skewers and cooked on charcoal fires. Now lamb mince is preferred for its soft texture."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "you it’s the best way to eat the meat! Along with the stewed chunks of lamb leg I slow cooked with my rice broth, I also grilled lamb chops (kabab e chopan) and chicken thighs (kabab e mourgh) on a skewer, both of which had been marinated in yoghurt and various spices (e.g. paprika, saffron, ground coriander, lemon, garlic, ginger) for several hours prior. Kababs in Afghanistan are commonly sold from street vendors and restaurants, and can contain whole cuts of meat, mince, vegetables or even offal like liver. I won’t pretend their addition to the already-rich rice dish was necessary, but it certainly was appreciated…"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Afghan bread is commonly stocked at Middle Eastern grocery stores in western countries. In Afghanistan the baker still cooks the bread the traditional way by spreading the dough around the tandoor, whereby it gets puffy quickly and starts to colour and emit a fresh bread smell that draws the early morning throngs of people. The baker then uses two long iron tongs to pull the bread from the tandoor wall. It is carried in cloth bags by Afghans, unlike western breads packaged in plastic."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_027",
+            "query": "How does Sri Lankan cuisine reflect South Indian culinary influence?",
+            "response": "Sri Lankan cuisine reflects South Indian culinary influence through several key aspects:\n\n1. **Herbs and Spices**: Both Sri Lankan and South Indian cuisines heavily rely on aromatic herbs and spices. For example, the use of turmeric in Sri Lankan dishes and cumin in South Indian dishes is common.\n\n2. **Fish**: Both cuisines feature a variety of seafood in their dishes. Fish is a staple in Sri Lankan cuisine, particularly in the traditional dishes like fish curry and fish stew, while South Indian cuisine includes fish in its traditional dishes like fish curry and fish soup.\n\n3. **Vegetables**: Vegetables are an important part of both Sri Lankan and South Indian cuisines. Common vegetables used in Sri Lankan dishes include green chilies, tomatoes, and onions, while South Indian dishes often incorporate vegetables like potatoes, carrots, and cauliflower.\n\n4. **Rice**: Rice is a central ingredient in both Sri Lankan and South Indian cuisines. In Sri Lankan dishes, rice is commonly used in stews, soups, and curries, while in South Indian dishes, rice is integral to many traditional dishes.\n\n5. **Fruits**: Fruits are another significant element in both cuisines. Pineapples, mangoes, and bananas are staples in Sri Lankan cuisine, while South Indian dishes often include fruits like papaya, banana, and coconut.\n\n6. **Coconut**: Coconut is a crucial ingredient in both Sri Lankan and South Indian cuisines. Coconut milk is a popular accompaniment in Sri Lankan dishes, and coconut is a prominent ingredient in South Indian dishes.\n\n7. **Dishes**: Many Sri Lankan dishes feature dishes like fish curry, fish stew, and fish balls, which are typical South Indian dishes. Similarly, many South Indian dishes feature dishes like lentil dosas, idli, and naan bread, which are common in Sri Lankan cuisine.\n\nThese elements collectively demonstrate how Sri Lankan cuisine draws upon South Indian culinary influences, blending them into unique and flavorful dishes that reflect the rich cultural heritage of both countries.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Sri Lankan cuisine has been shaped by many historical, cultural, and other factors. Foreign traders who brought new food items; influences from Malay cuisine and South Indian cuisine are evident."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Sri Lankan cuisine is known for its particular combinations of herbs, spices, fish, vegetables, rices, and fruits. The cuisine is highly centered around many varieties of rice, as well as coconut which is a ubiquitous plant throughout the country. Seafood also plays a significant role in the cuisine, be it fresh fish or preserved fish. As a country that was a hub in the historic oceanic silk road, contact with foreign traders brought new food items and cultural influences in addition to the local traditions of the country's ethnic groups, all of which have helped shape Sri Lankan cuisine. Influences from Indian (particularly South Indian), Indonesian and Dutch cuisines are most evident with Sri Lankan cuisine sharing close ties to other neighbouring South and Southeast Asian cuisines."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Tamil cuisine is the culinary traditions of Tamil-speaking populations, primarily from the southern Indian state of Tamil Nadu and the Tamil-majority regions of Sri Lanka. It encompasses distinct regional styles, broadly divided into the Tamil Nadu style, which forms a key component of South Indian cuisine, and Sri Lankan Tamil cuisine, which has evolved in conjunction with other Sri Lankan culinary traditions."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "I grouped Sri Lanka and The Maldives together because both are, to varying degrees, lost in the great expanse of the Indian Ocean, and their cuisines have influenced each other, as well as having been influenced by similar external forces, over the centuries. Sri Lanka has taken cues from the cuisines of neighbouring Southern India, as well as various migrants/invaders over the years, notably Indonesia, Malaysia, China, Britain, The Netherlands and Portugal. The standout flavours/ingredients that pervade Sri Lankan cooking include fresh fish, often in curries, steaming white rice, flatbreads, dals, fresh coconut and coconut milk, lime, chillies (often flavouring various “sambols”; describing all sorts of spicy pastes/dips/accompaniments) dried Maldive fish and curry leaves. This latter component formed one of my favourite culinary revelations of adulthood, in which my parents planted a curry leaf tree in their beautiful garden, and on one of my many tours to assess the horticultural progress, I realised I didn’t know what curry leaves were like, and pinched one between my fingers to smell it. Instantly, I was transported back to my childhood, where lovely Sri Lankan friends would bring us leftover curries from big events, always insisting “no no, it’s not spicy at all”. If you’ve ever been friends with a Sri Lankan family, you will already know that they were obviously lying, but the food was so good that I persisted eating it through tears of pain as it burned my 8 year old"
+                },
+                {
+                    "doc_id": "004",
+                    "text": "\"Short eats\" (colloquially called \"shorties\") are a ubiquitous category of savory and sweet snacks in Sri Lanka, encompassing items such as patties, cutlets, rolls, samosas, pies, and buns. Though now deeply ingrained in Sri Lankan culture, their origins are a fusion of colonial culinary influences adapted and \"Sri Lankanised\" over the past 80 years. The diverse array of short eats reflects the island's history of foreign presence. European influences (British, Dutch, Portuguese) contributed pies, pastries, fish patties, and the likely ancestor of the breadcrumb-coated cutlet (from the Portuguese bolinho). Meanwhile Indians introduced samosas and vadais, while Chinese settler communities introduced the breadcrumb-coated \"Chinese roll,\" a spicy, deep-fried spring roll distinct from those found in China, similar to spring roll and egg roll. Actually Cutlet and Chinese roll are croquette."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_028",
+            "query": "What distinguishes Chapli kebab from other Pakistani kebabs?",
+            "response": "Chapli kebab is distinguished from other Pakistani kebabs by being:\n\n1. Grilled on a chula (grill)\n2. Sometimes grilled in a skillet\n\nThese differences make Chapli kebab stand out among other Pakistani kebabs, particularly in terms of preparation method and cooking technique.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Chapli kebab originates from Peshawar in northwest Pakistan (and is therefore also sometimes called Peshwari kebab), but is now popular all over the country, as well as in India and Afghanistan. It can be served at barbecues, by street vendors, in lunch boxes, by restaurants or home cooks. The word chapli comes from a Pashto word meaning “flat”, which refers to the classic shape of the kebab which resembles a round hamburger patty. However, there are also some who argue it comes from another word meaning “sandal”, and that the kebabs are supposed to resemble the size and thickness of the front sole of a traditional shoe. I made my chapli kebabs by marinating beef mince (although lamb is also sometimes used), with garam masala, chilli powder, cayenne pepper, coriander, mint, onions, tomatoes, ginger, garlic, cumin, lemon and egg to bind. I then formed them into patties and shallow-fried them in a saucepan. Chana chaat is a classic street food made with cooked chickpeas, cubes of potato, onion and tomato, spices with chilli, cumin, chaat masala, lime/lemon juice, coriander and mint. Its name comes from words which can mean “a delicacy” “to lick/taste” and “to eat noisily”. A name to raise one’s expectations if ever there was one! Indeed both the kebabs and chana chaat were extremely aromatic and delicious, and, along with the green salad, provided a mix of colours, temperatures and textures that was very enjoyable."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "The kebabs of Awadhi cuisine are distinct from the kebabs of Punjab insofar as Awadhi kebabs are grilled on a chula and sometimes in a skillet as opposed to grilled in a tandoor in Punjab. Awadhi kebabs are also called \"chula\" kebabs whereas the kebabs of Punjab are called \"tandoori\" kebabs."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Meat and grilled meat have played an important role in Pakistan for centuries. Kebabs are a staple item in Pakistani cuisine today, and one can find countless varieties all over the country. Each region has its own varieties, but some, like seekh kebab, chicken tikka, and shami kebab are eaten throughout the country."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "The shami kebab is made from mincemeat, usually with chopped onion, coriander, and green chillies added. The kebabs are round patties filled with spicy mix and tangy raw green mango. The best time to have them is in May, when mangoes are young. When mangoes are not in season, kamrakh or karonda may be substituted for kairi, as both have a tart flavour reminiscent of raw mango."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Pakistanis drink a great deal of tea, locally called \"chai\". Both black (with milk) and green teas are popular and there are different varieties common in different parts of Pakistan."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_029",
+            "query": "How do cooking fats differ between North Indian and South Indian cuisines?",
+            "response": "The cooking fats in North Indian cuisine are generally richer and more flavorful compared to those in South Indian cuisine. This is due to several factors:\n\n1. **Richer Cooking Fats**: North Indian cuisine heavily uses butter, ghee, and other rich oils like ghee, garam masala, and ghee-based preparations. These fats contribute to the richness and depth of flavor in dishes.\n\n2. **Spices and Herbs**: The use of aromatic spices and herbs is common in both cuisines. However, North Indian cuisine tends to incorporate more spices and herbs, resulting in a more complex and flavorful dish.\n\n3. **Curry Base**: Curry bases are often made using a combination of spices and herbs, which adds complexity and depth to the final product.\n\n4. **Roasting and Grilling**: Roasting and grilling techniques are prevalent in both cuisines, adding a smoky and slightly charred flavor profile.\n\n5. **Dairy Products**: While South Indian cuisine emphasizes coconut, dairy products like yogurt, kefir, and paneer are more prominent in North Indian cuisine.\n\nIn summary, the key differences lie in the types of fats used, the inclusion of more aromatic spices and herbs, the use of roasting and grilling methods, and the incorporation of dairy products.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food as a shining example of what can be achieved with ingenuity and appropriate use of spices. So much of the cooking involves turning cheap ingredients into taste sensations, which I think is why it’s become so internationally popular. It’s easy to make lobster and caviar taste amazing, it’s more challenging to work miracles with lentils and spinach (at least, in my opinion)."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "India is far too diverse to be fairly divided into just two geographical parts, and I have a secret desire to one day cook around over 20 regions of this country to properly explore a greater portion of the wealth of culinary knowledge it has to offer. Alas, for now, I must divide the north and south, and happily there are tangible trends in their eating habits that separate the two. The people of the north, living in a drier, colder climate, with more pasture and less access to the sea, tend to eat more wheat than rice as their staple carbohydrate, more meat and less seafood than the south, with thicker, richer curries, and a greater amount of dairy products, while the south prefers watery curries and eats more coconut, vegetarian dishes and pulses. In the north, sourness is imparted upon foods commonly with amchoor (a dry mango powder) and pre-mixed dry spice powders are used to flavour food, while the south prefers tamarind and to roast and grind their spices fresh for each meal. The north also has stronger historic influences from neighbouring Pakistan and the Middle East that has been imparted upon the regional cuisine. If you are still confused, the best way to think about the division of Indian cuisine is that most restaurants in English-speaking countries serve primarily North Indian dishes, so most of what you would typically think of as “Indian cuisine” likely comes from the north, while the south is relatively under-represented. I have always thought of Indian food"
+                },
+                {
+                    "doc_id": "002",
+                    "text": "North Indian cuisine is collectively the cuisine of North India, which includes the cuisines of Jammu and Kashmir, Punjab, Haryana, Himachal Pradesh, Rajasthan, Uttarakhand, Delhi, and Uttar Pradesh."
+                },
+                {
+                    "doc_id": "003",
+                    "text": "South Indian cuisine is distinguished by multiple elements, one being the use of intense aromatic mixtures of spices, often extremely spicy hot, for curry dishes. These make use of roasted spices and aromatic herbs, the dishes made hot with chili and pepper, sometimes with coconut milk."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "While Northern India’s climate is better suited to producing wheat and dairy, Southern India relies more upon rice as the carbohydrate staple, as well as a larger variety of seafood, lentils, curry leaves and tropical fruits, such as coconut. As I’ve already covered in my Northern India blog, most of the curries that would be familiar to Westerners and served in international Indian restaurants are from the north, leaving the south as somewhat of an unknown quantity for me. As it turns out, the cuisine is remarkably varied, tasty and surprisingly healthy, and, despite my aversion to monotonous diets, I think I would be happy to eat this fare daily for quite some time."
+                }
+            ]
+        },
+        {
+            "query_id": "SA_030",
+            "query": "How does Maldivian cuisine reflect reliance on marine resources?",
+            "response": "Maldivian cuisine reflects a strong reliance on marine resources through its emphasis on seafood dishes. Specifically:\n\n1. **Main Ingredients**: The cuisine primarily consists of seafood, particularly fish and shrimp.\n2. **Dishes**: Many dishes are made using these ingredients, such as:\n   - Garudhiya (a clear fish broth)\n   - Rooshi (flatbread)\n   - Tuna-based dishes like rihaakuru (brown paste)\n\nThis reliance on marine resources is evident in various aspects of Maldivian cuisine, including:\n\n- **Cooking Methods**: The use of sea vegetables, such as seaweed and lemongrass, in cooking methods like steaming and pan-frying.\n- **Flavor Profiles**: The inclusion of spices and herbs derived from marine plants, such as turmeric and cumin.\n- **Seasonings**: The frequent use of salt, which is a key component of many Maldivian dishes.\n\nOverall, Maldivian cuisine highlights the importance of marine resources in shaping its culinary traditions and providing a significant portion of its food supply.",
+            "retrieved_context": [
+                {
+                    "doc_id": "000",
+                    "text": "Maldivian cuisine, also called Dhivehi cuisine, is the cuisine of the Nation of Maldives and of Minicoy, India. The traditional cuisine of Maldivians is based on three main items and their derivatives: coconuts, fish and starches."
+                },
+                {
+                    "doc_id": "001",
+                    "text": "Maldivian cuisine, also called Dhivehi cuisine, is the cuisine of the Maldives and Minicoy, Lakshadweep, India. The traditional cuisine of Maldivians and Lakshadweep is based on three main items and their derivatives: coconuts, fish, and starches."
+                },
+                {
+                    "doc_id": "002",
+                    "text": "Garudhiya is generally regarded as the national dish of The Maldives, consisting of a clear fish broth. It is one of countless Maldivian dishes that commonly feature tuna, which is indisputably the foundation of the country’s cuisine. In fairness to the Maldivians, if there were bountiful supplies of skipjack tuna, yellowfin tuna or frigate tuna swimming a few hundred metres from my house, it would surely form the foundation of my diet as well. The most basic version of garudhiya involves boiling tuna fillets in salted water, skimming off the scum that forms at the surface, and then serving with steamed rice or roshi (flatbread). However, upon this a cook can add many other ingredients depending on preference and availability, including boiled taro or breadfruit, grated coconut, lime, chillies, onions or curry leaves. I can see why this dish is still eaten daily by Maldivians: it’s incredibly quick and easy to prepare, delicious, filling and healthy. However, if you had more time and patience on your hands, you could continue the boiling process of the fish broth until achieving a thick brown paste, called rihaakuru. This is a prized ingredient in Maldivian cuisine, and was also introduced to Sri Lanka, where it now features in many dishes. It can be eaten along with other aforementioned staples (rice, roshi, taro, breadfruit) as well as cooked with spiced and/or coconut to create new flavour combinations. I’ve even read reports of rihaakuru being spread on toast, with some"
+                },
+                {
+                    "doc_id": "003",
+                    "text": "The tuna-based thick brown paste known as rihaakuru is also an essential item in Maldivian cuisine."
+                },
+                {
+                    "doc_id": "004",
+                    "text": "Seafood is a staple for many Konkan coastal communities and is popular in other parts of the state too. Most of the recipes are based on marine fish, prawns and crab. A distinct Malvani cuisine of mainly seafood dishes is popular. Popular fish varieties include Bombay duck, pomfret, bangda, Rawas, and surmai (kingfish).These fish are used fresh as well as dried in areas around Mumbai. Seafood recipes are prepared in different ways such as curried, Pan frying, or steaming in banana leaves."
+                }
+            ]
+        }
+    ]
+}
