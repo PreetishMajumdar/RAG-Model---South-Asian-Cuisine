@@ -1,8 +1,4 @@
 # South Asian Culinary Encyclopedia: RAG Pipeline
-
-> **NOTICE: FOR GRADING & INTERNAL GROUP USE**
-> This repository contains the codebase, evaluation metrics, and ablation study results for the South Asian Cuisine RAG System. The architecture strictly follows a decoupled, variable-controlled approach to scientifically determine the best configuration for a 0.5B parameter LLM.
-
 ## Project Objective
 The goal of this project is to build a robust **Retrieval-Augmented Generation (RAG)** system capable of answering complex queries about South Asian cuisine. To ensure maximum efficiency and accuracy, we implemented a **Rigorous Ablation Study**, evaluating different combinations of Chunking, Retrieval, and Prompting strategies.
 
